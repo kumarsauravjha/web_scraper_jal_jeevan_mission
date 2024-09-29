@@ -1,0 +1,146 @@
+State,District,Block Name,Total Habitations as on 01/04/2022,Non PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations
+,,Block Name,Total Habitations as on 01/04/2022,Non PWS Habitations,With FHTC Coverage = 0 %,With FHTC Coverage = 0 %,With FHTC Coverage = 0 %,With FHTC Coverage >0 and <25 %,With FHTC Coverage >0 and <25 %,With FHTC Coverage >0 and <25 %,With FHTC Coverage >=25 and <50 %,With FHTC Coverage >=25 and <50 %,With FHTC Coverage >=25 and <50 %,With FHTC Coverage >=50 and <75 %,With FHTC Coverage >=50 and <75 %,With FHTC Coverage >=50 and <75 %,With FHTC Coverage >=75 and <100 %,With FHTC Coverage >=75 and <100 %,With FHTC Coverage >=75 and <100 %,With FHTC Coverage >=100 %,With FHTC Coverage >=100 %,With FHTC Coverage >=100 %
+,,Block Name,Total Habitations as on 01/04/2022,Non PWS Habitations,Habs,House Holds,House Connectons,Habs,House Holds,House Connectons,Habs,House Holds,House Connectons,Habs,House Holds,House Connectons,Habs,House Holds,House Connectons,Habs,House Holds,House Connectons
+,,Total,63,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,63,"8,827","8,827"
+Haryana,Ambala,Ambala-i,119,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,119,28034,28034
+Haryana,Ambala,Ambala-ii,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19,10126,10126
+Haryana,Ambala,Barara,73,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,73,21307,21307
+Haryana,Ambala,Naraingarh,105,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,105,19438,19438
+Haryana,Ambala,Saha,68,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,68,21636,21636
+Haryana,Ambala,Shahzadpur,80,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,80,18890,18890
+Haryana,Bhiwani,Bawani Khera,38,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,38,19286,19286
+Haryana,Bhiwani,Behal,33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,33,12536,12536
+Haryana,Bhiwani,Bhiwani,87,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,87,57124,57124
+Haryana,Bhiwani,Kairu,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40,15769,15769
+Haryana,Bhiwani,Loharu,63,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,63,15584,15584
+Haryana,Bhiwani,Siwani,47,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,47,17752,17752
+Haryana,Bhiwani,Tosham,52,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,52,29493,29493
+Haryana,Charki Dadri,Badhra,51,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51,14820,14820
+Haryana,Charki Dadri,Baund,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,16444,16444
+Haryana,Charki Dadri,Charkhi Dadri,49,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,49,29015,29015
+Haryana,Charki Dadri,Jhojhu,47,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,47,21643,21643
+Haryana,Faridabad,Ballabgarh,44,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,44,23748,23748
+Haryana,Faridabad,Faridabad,38,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,38,12734,12734
+Haryana,Faridabad,Tigaon,42,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,42,10978,10978
+Haryana,Fatehabad,Bhattu Kalan,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,28,20494,20494
+Haryana,Fatehabad,Bhuna,31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31,19792,19792
+Haryana,Fatehabad,Fatehabad,65,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,65,31713,31713
+Haryana,Fatehabad,Jakhal,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,26,9057,9057
+Haryana,Fatehabad,Nagpur,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40,14385,14385
+Haryana,Fatehabad,Ratia,58,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,58,21961,21961
+Haryana,Fatehabad,Tohana,56,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,56,24402,24402
+Haryana,GURUGRAM,Farrukh Nagar,62,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,62,16405,16405
+Haryana,GURUGRAM,Gurgaon,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,3234,3234
+Haryana,GURUGRAM,Pataudi,88,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,88,24274,24274
+Haryana,GURUGRAM,Sohna,58,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,58,14904,14904
+Haryana,Hisar,Adampur,34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,34,17812,17812
+Haryana,Hisar,Agroha,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,20318,20318
+Haryana,Hisar,Barwala,44,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,44,30178,30178
+Haryana,Hisar,Hansi-i,68,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,68,36305,36305
+Haryana,Hisar,Hansi-ii,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,12984,12984
+Haryana,Hisar,Hisar-i,48,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,48,30166,30166
+Haryana,Hisar,Hisar-ii,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45,28659,28659
+Haryana,Hisar,Narnaund,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,32,22604,22604
+Haryana,Hisar,Uklana,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,16409,16409
+Haryana,Jhajjar,Badli,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,28,16066,16066
+Haryana,Jhajjar,Bahadurgarh,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45,42233,42233
+Haryana,Jhajjar,Beri,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,36,24532,24532
+Haryana,Jhajjar,Jhajjar,54,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,54,25611,25611
+Haryana,Jhajjar,Machhrauli,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,26,12534,12534
+Haryana,Jhajjar,Matannail,48,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,48,26640,26640
+Haryana,Jhajjar,Salhawas,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,27,14758,14758
+Haryana,Jind,Alewa,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,16317,16317
+Haryana,Jind,Jind,70,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,70,39351,39351
+Haryana,Jind,Julana,37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,37,23418,23418
+Haryana,Jind,Narwana,38,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,38,21455,21455
+Haryana,Jind,Pillukhera,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,29,17356,17356
+Haryana,Jind,Safidon,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45,23789,23789
+Haryana,Jind,Uchana,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45,32717,32717
+Haryana,Jind,Ujhana,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19,15960,15960
+Haryana,Kaithal,Dhand,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,29,18960,18960
+Haryana,Kaithal,Guhla,77,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,77,23301,23301
+Haryana,Kaithal,Kaithal,68,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,68,41369,41369
+Haryana,Kaithal,Kalayat,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,30,19733,19733
+Haryana,Kaithal,Pundri,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,26,24370,24370
+Haryana,Kaithal,Rajound,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,15862,15862
+Haryana,Kaithal,Siwan,62,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,62,14302,14302
+Haryana,Karnal,Assandh,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45,25424,25424
+Haryana,Karnal,Gharaunda (part),54,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,54,28054,28054
+Haryana,Karnal,Indri,80,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,80,19419,19419
+Haryana,Karnal,Karnal,47,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,47,18634,18634
+Haryana,Karnal,Kunjpura,52,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,52,19698,19698
+Haryana,Karnal,Munak,31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31,21180,21180
+Haryana,Karnal,Nilokheri,77,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,77,30430,30430
+Haryana,Karnal,Nissing,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45,26313,26313
+Haryana,Kurukshetra,Babain,52,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,52,13546,13546
+Haryana,Kurukshetra,Ismailabad,49,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,49,14168,14168
+Haryana,Kurukshetra,Ladwa,57,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,57,14573,14573
+Haryana,Kurukshetra,Pehowa,70,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,70,27158,27158
+Haryana,Kurukshetra,Pipli,55,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,55,19544,19544
+Haryana,Kurukshetra,Shahbad,88,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,88,23310,23310
+Haryana,Kurukshetra,Thanesar,68,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,68,27421,27421
+Haryana,Mahendragarh,Ateli Nangal,58,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,58,18510,18510
+Haryana,Mahendragarh,Kanina,58,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,58,27750,27750
+Haryana,Mahendragarh,Mahendragarh,75,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,75,28964,28964
+Haryana,Mahendragarh,Nangal Chaudhry,73,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,73,16714,16714
+Haryana,Mahendragarh,Narnaul,67,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,67,21075,21075
+Haryana,Mahendragarh,Nizampur,63,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,63,11158,11158
+Haryana,Mahendragarh,Satnali,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,35,12212,12212
+Haryana,Mahendragarh,Sihma,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,32,11540,11540
+Haryana,Nuh,Ferozepur Jhirka,81,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81,20759,20759
+Haryana,Nuh,Indri,63,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,63,19493,19493
+Haryana,Nuh,Nagina,63,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,63,19168,19168
+Haryana,Nuh,Nuh,60,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,60,26952,26952
+Haryana,Nuh,Pingwan,63,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,63,22767,22767
+Haryana,Nuh,Punahana,73,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,73,27941,27941
+Haryana,Nuh,Taoru,83,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,83,20467,20467
+Haryana,Palwal,Badoli,46,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,46,14271,14271
+Haryana,Palwal,Hassanpur,47,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,47,15016,15016
+Haryana,Palwal,Hathin,84,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,84,39908,39908
+Haryana,Palwal,Hodal,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45,27607,27607
+Haryana,Palwal,Palwal,49,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,49,17028,17028
+Haryana,Palwal,Prithla,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40,15526,15526
+Haryana,Panchkula,Barwala,38,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,38,8767,8767
+Haryana,Panchkula,Morni,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,3855,3855
+Haryana,Panchkula,Pinjore,113,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,113,9508,9508
+Haryana,Panchkula,Raipur Rani,48,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,48,12303,12303
+Haryana,Panipat,Bapoli,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,30,10630,10630
+Haryana,Panipat,Israna,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,32,22784,22784
+Haryana,Panipat,Madlauda,37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,37,25649,25649
+Haryana,Panipat,Panipat,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,35,23477,23477
+Haryana,Panipat,Samalkha,33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,33,28936,28936
+Haryana,Panipat,Sanauli Khurd,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,11436,11436
+Haryana,Rewari,Bawal,80,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,80,20406,20406
+Haryana,Rewari,Dahina,42,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,42,17767,17767
+Haryana,Rewari,Dharuhera,57,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,57,19291,19291
+Haryana,Rewari,Jatusana,51,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51,17479,17479
+Haryana,Rewari,Khol At Rewari,47,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,47,16117,16117
+Haryana,Rewari,Nahar,46,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,46,22072,22072
+Haryana,Rewari,Rewari,82,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,82,25432,25432
+Haryana,Rohtak,Kalanaur,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25,19971,19971
+Haryana,Rohtak,Lakhan Majra,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,15356,15356
+Haryana,Rohtak,Maham,34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,34,36707,36707
+Haryana,Rohtak,Rohtak,49,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,49,40365,40365
+Haryana,Rohtak,Sampla,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21,20417,20417
+Haryana,Sirsa,Baragudha,47,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,47,22903,22903
+Haryana,Sirsa,Dabwali,50,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,29821,29821
+Haryana,Sirsa,Ellenabad,65,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,65,23453,23453
+Haryana,Sirsa,Nathusari Chopta,55,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,55,29795,29795
+Haryana,Sirsa,Odhan,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40,20255,20255
+Haryana,Sirsa,Rania,63,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,63,27138,27138
+Haryana,Sirsa,Sirsa,67,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,67,34898,34898
+Haryana,Sonipat,Ganaur,59,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,59,31551,31551
+Haryana,Sonipat,Gohana,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,36,30472,30472
+Haryana,Sonipat,Kathura,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,17240,17240
+Haryana,Sonipat,Kharkhoda,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45,27121,27121
+Haryana,Sonipat,Mundlana,34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,34,24818,24818
+Haryana,Sonipat,Murthal,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45,23231,23231
+Haryana,Sonipat,Rai,42,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,42,23313,23313
+Haryana,Sonipat,Sonipat,47,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,47,26874,26874
+Haryana,Yamunanagar,Bilaspur,126,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,126,20497,20497
+Haryana,Yamunanagar,Chhachhrauli,105,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,105,16965,16965
+Haryana,Yamunanagar,Jagadhri,92,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,92,18355,18355
+Haryana,Yamunanagar,Partap Nagar,84,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,84,13584,13584
+Haryana,Yamunanagar,Radaur,81,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81,17664,17664
+Haryana,Yamunanagar,Sadaura (part),61,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61,8573,8573
+Haryana,Yamunanagar,Saraswati Nagar,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,90,17323,17323

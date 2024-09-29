@@ -15,14 +15,15 @@ driver.get(url)
 time.sleep(5)
 #for the Year
 year_dropdown = Select(driver.find_element(By.NAME, 'ctl00$CPHPage$ddFinyear'))
-year_dropdown.select_by_value('2023-2024')
+year_dropdown.select_by_value('2022-2023')
 
 # Select State from dropdown
 state_dropdown = Select(driver.find_element(By.NAME, 'ctl00$CPHPage$ddState'))
 
-# states = [(option.get_attribute("value"), option.text) for option in state_dropdown.options if option.get_attribute("value") and option.text != "All State"]
+#replace with the name of the state you want to scrape for
+state_dropdown.select_by_visible_text('Uttar Pradesh')
 
-state_dropdown.select_by_value('2')
+# state_dropdown.select_by_value('31')
 
 final_df = pd.DataFrame()
 
@@ -35,18 +36,6 @@ time.sleep(5)
 district_dropdown = Select(driver.find_element(By.NAME, 'ctl00$CPHPage$ddDistrict'))
 
 districts = [(option.get_attribute("value"), option.text) for option in district_dropdown.options if option.get_attribute("value") and option.text != "All District"]
-
-
-# Get all available district options, excluding the placeholder "All District"
-# district_options = [option for option in district_dropdown.options if option.get_attribute("value") and option.text != "All District"]
-
-
-# Loop through each option and print the text
-# for option in district_options:
-#     print(option.get_attribute("value"))
-
-# Close the browser
-# driver.quit()
 
 for district_value, district_name in districts:
     try:
@@ -64,8 +53,6 @@ for district_value, district_name in districts:
 
         soup = BeautifulSoup(driver.page_source, 'html.parser')
         table = soup.find('table', {'id':'tableReportTable'})
-        # Use pandas to directly read the table from the page source
-        # dfs = pd.read_html(StringIO(driver.page_source))
 
         # Assuming the table you want is the first one
         if table:
@@ -101,7 +88,8 @@ for district_value, district_name in districts:
 if not final_df.empty:
     # combined_df = pd.concat(all_data, ignore_index=True)
     # Save the DataFrame to CSV
-    final_df.to_csv('andhra_pradesh_all_districts.csv', index=False)
+    # final_df.to_csv('andhra_pradesh_all_districts.csv', index=False)
+    final_df.to_csv('jjm_uttar_pradesh.csv', index=False)
     print("Data scraped successfully and saved to CSV.")
 else:
     print("No data to save.")

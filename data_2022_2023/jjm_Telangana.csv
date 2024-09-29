@@ -1,0 +1,34 @@
+State,District,Block Name,Total Habitations as on 01/04/2022,Non PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations
+,,Block Name,Total Habitations as on 01/04/2022,Non PWS Habitations,With FHTC Coverage = 0 %,With FHTC Coverage = 0 %,With FHTC Coverage = 0 %,With FHTC Coverage >0 and <25 %,With FHTC Coverage >0 and <25 %,With FHTC Coverage >0 and <25 %,With FHTC Coverage >=25 and <50 %,With FHTC Coverage >=25 and <50 %,With FHTC Coverage >=25 and <50 %,With FHTC Coverage >=50 and <75 %,With FHTC Coverage >=50 and <75 %,With FHTC Coverage >=50 and <75 %,With FHTC Coverage >=75 and <100 %,With FHTC Coverage >=75 and <100 %,With FHTC Coverage >=75 and <100 %,With FHTC Coverage >=100 %,With FHTC Coverage >=100 %,With FHTC Coverage >=100 %
+,,Block Name,Total Habitations as on 01/04/2022,Non PWS Habitations,Habs,House Holds,House Connectons,Habs,House Holds,House Connectons,Habs,House Holds,House Connectons,Habs,House Holds,House Connectons,Habs,House Holds,House Connectons,Habs,House Holds,House Connectons
+,,Total,63,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,63,"8,827","8,827"
+Telangana,GANGTOK,DUGA,64,0,1,37,0,5,349,38,4,749,258,3,539,335,17,1519,1471,34,1970,1970
+Telangana,GANGTOK,PAKYONG,158,0,12,1300,0,0,0,0,4,195,73,7,412,269,37,1758,1584,98,5425,5425
+Telangana,GANGTOK,Parkha,28,0,1,41,0,1,66,2,0,0,0,6,356,223,9,475,432,11,569,569
+Telangana,GANGTOK,Reghu,74,0,8,666,0,1,50,10,6,339,115,8,599,340,21,1233,1134,30,1423,1423
+Telangana,GANGTOK,Rhenock,61,0,8,1004,0,2,77,5,0,0,0,4,326,192,18,1074,996,29,1656,1656
+Telangana,GYALSHING,DUGA,64,0,1,37,0,5,349,38,4,749,258,3,539,335,17,1519,1471,34,1970,1970
+Telangana,GYALSHING,PAKYONG,158,0,12,1300,0,0,0,0,4,195,73,7,412,269,37,1758,1584,98,5425,5425
+Telangana,GYALSHING,Parkha,28,0,1,41,0,1,66,2,0,0,0,6,356,223,9,475,432,11,569,569
+Telangana,GYALSHING,Reghu,74,0,8,666,0,1,50,10,6,339,115,8,599,340,21,1233,1134,30,1423,1423
+Telangana,GYALSHING,Rhenock,61,0,8,1004,0,2,77,5,0,0,0,4,326,192,18,1074,996,29,1656,1656
+Telangana,MANGAN,DUGA,64,0,1,37,0,5,349,38,4,749,258,3,539,335,17,1519,1471,34,1970,1970
+Telangana,MANGAN,PAKYONG,158,0,12,1300,0,0,0,0,4,195,73,7,412,269,37,1758,1584,98,5425,5425
+Telangana,MANGAN,Parkha,28,0,1,41,0,1,66,2,0,0,0,6,356,223,9,475,432,11,569,569
+Telangana,MANGAN,Reghu,74,0,8,666,0,1,50,10,6,339,115,8,599,340,21,1233,1134,30,1423,1423
+Telangana,MANGAN,Rhenock,61,0,8,1004,0,2,77,5,0,0,0,4,326,192,18,1074,996,29,1656,1656
+Telangana,NAMCHI,DUGA,64,0,1,37,0,5,349,38,4,749,258,3,539,335,17,1519,1471,34,1970,1970
+Telangana,NAMCHI,PAKYONG,158,0,12,1300,0,0,0,0,4,195,73,7,412,269,37,1758,1584,98,5425,5425
+Telangana,NAMCHI,Parkha,28,0,1,41,0,1,66,2,0,0,0,6,356,223,9,475,432,11,569,569
+Telangana,NAMCHI,Reghu,74,0,8,666,0,1,50,10,6,339,115,8,599,340,21,1233,1134,30,1423,1423
+Telangana,NAMCHI,Rhenock,61,0,8,1004,0,2,77,5,0,0,0,4,326,192,18,1074,996,29,1656,1656
+Telangana,PAKYONG,DUGA,64,0,1,37,0,5,349,38,4,749,258,3,539,335,17,1519,1471,34,1970,1970
+Telangana,PAKYONG,PAKYONG,158,0,12,1300,0,0,0,0,4,195,73,7,412,269,37,1758,1584,98,5425,5425
+Telangana,PAKYONG,Parkha,28,0,1,41,0,1,66,2,0,0,0,6,356,223,9,475,432,11,569,569
+Telangana,PAKYONG,Reghu,74,0,8,666,0,1,50,10,6,339,115,8,599,340,21,1233,1134,30,1423,1423
+Telangana,PAKYONG,Rhenock,61,0,8,1004,0,2,77,5,0,0,0,4,326,192,18,1074,996,29,1656,1656
+Telangana,SORENG,DUGA,64,0,1,37,0,5,349,38,4,749,258,3,539,335,17,1519,1471,34,1970,1970
+Telangana,SORENG,PAKYONG,158,0,12,1300,0,0,0,0,4,195,73,7,412,269,37,1758,1584,98,5425,5425
+Telangana,SORENG,Parkha,28,0,1,41,0,1,66,2,0,0,0,6,356,223,9,475,432,11,569,569
+Telangana,SORENG,Reghu,74,0,8,666,0,1,50,10,6,339,115,8,599,340,21,1233,1134,30,1423,1423
+Telangana,SORENG,Rhenock,61,0,8,1004,0,2,77,5,0,0,0,4,326,192,18,1074,996,29,1656,1656

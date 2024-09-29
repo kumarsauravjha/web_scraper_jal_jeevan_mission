@@ -1,0 +1,50 @@
+State,District,Block Name,Total Habitations as on 01/04/2022,Non PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations
+,,Block Name,Total Habitations as on 01/04/2022,Non PWS Habitations,With FHTC Coverage = 0 %,With FHTC Coverage = 0 %,With FHTC Coverage = 0 %,With FHTC Coverage >0 and <25 %,With FHTC Coverage >0 and <25 %,With FHTC Coverage >0 and <25 %,With FHTC Coverage >=25 and <50 %,With FHTC Coverage >=25 and <50 %,With FHTC Coverage >=25 and <50 %,With FHTC Coverage >=50 and <75 %,With FHTC Coverage >=50 and <75 %,With FHTC Coverage >=50 and <75 %,With FHTC Coverage >=75 and <100 %,With FHTC Coverage >=75 and <100 %,With FHTC Coverage >=75 and <100 %,With FHTC Coverage >=100 %,With FHTC Coverage >=100 %,With FHTC Coverage >=100 %
+,,Block Name,Total Habitations as on 01/04/2022,Non PWS Habitations,Habs,House Holds,House Connectons,Habs,House Holds,House Connectons,Habs,House Holds,House Connectons,Habs,House Holds,House Connectons,Habs,House Holds,House Connectons,Habs,House Holds,House Connectons
+,,Total,63,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,63,"8,827","8,827"
+Meghalaya,East Garo Hills,Dambo Rongjeng,235,1,35,1727,0,5,393,61,22,1352,490,29,1818,1191,61,4034,3663,82,6030,6030
+Meghalaya,East Garo Hills,Samanda,264,0,26,977,0,9,508,90,30,1340,485,26,1425,877,27,1645,1390,146,6143,6143
+Meghalaya,East Garo Hills,Songsak,245,1,51,2478,0,6,266,34,13,840,297,31,2010,1261,35,1889,1659,108,4949,4949
+Meghalaya,East Jaintia Hills,Saipung,100,3,57,3476,0,5,1341,265,9,602,260,11,635,383,2,147,122,13,1542,1542
+Meghalaya,East Jaintia Hills,Wapung,135,0,55,6397,0,12,2580,265,15,3212,1004,12,1846,1193,18,2496,2178,23,1583,1583
+Meghalaya,East Khasi Hills,Khadarshnong-Laitkroh,144,1,56,3874,0,3,372,10,0,0,0,3,589,395,2,152,129,79,4189,4189
+Meghalaya,East Khasi Hills,Mawkynrew,203,0,70,2633,0,29,2615,292,21,790,263,26,1420,979,25,2211,1895,32,1383,1383
+Meghalaya,East Khasi Hills,MAWLAI,16,0,9,5338,0,3,1895,214,0,0,0,3,899,536,1,49,40,0,0,0
+Meghalaya,East Khasi Hills,Mawpat,28,0,19,2333,0,4,1790,87,3,4368,1837,0,0,0,2,1078,896,0,0,0
+Meghalaya,East Khasi Hills,Mawphlang,135,0,80,6121,0,6,626,29,5,496,161,15,1886,1203,14,867,767,15,1079,1079
+Meghalaya,East Khasi Hills,Mawryngkneng,152,0,75,9160,0,15,2097,174,4,651,249,5,517,299,15,1252,1154,38,4108,4108
+Meghalaya,East Khasi Hills,Mawsynram,174,1,18,1085,0,91,5381,389,6,654,287,16,1244,798,19,1907,1711,23,2081,2081
+Meghalaya,East Khasi Hills,Mylliem,95,0,71,12208,0,9,1558,84,2,2355,943,2,1434,770,6,839,713,5,284,284
+Meghalaya,East Khasi Hills,Pynursla,139,2,46,4812,0,4,557,115,3,408,167,6,645,383,63,8835,7800,15,1023,1023
+Meghalaya,East Khasi Hills,Shella Bholaganj,171,3,99,9017,0,4,384,12,0,0,0,2,107,54,9,839,735,54,3174,3174
+Meghalaya,East Khasi Hills,SOHIONG,158,1,81,5939,0,9,1250,126,3,164,62,12,1068,687,22,1634,1430,30,2053,2053
+Meghalaya,EASTERN WEST KHASI HILLS,MAIRANG,251,0,84,9747,0,19,1641,188,19,2122,745,12,1114,727,10,1029,888,107,6351,6351
+Meghalaya,EASTERN WEST KHASI HILLS,MAWTHADRAISHAN,80,0,15,1280,0,9,1099,146,5,467,172,8,243,154,14,1594,1546,29,3405,3405
+Meghalaya,North Garo Hills,Bajengdoba,191,0,94,5795,0,6,566,53,12,838,329,22,1876,1206,26,2524,2198,31,1961,1961
+Meghalaya,North Garo Hills,Kharkutta,221,0,118,6138,0,13,913,143,13,781,273,10,518,343,25,1641,1491,42,2814,2814
+Meghalaya,North Garo Hills,Resubelpara,228,3,66,3310,0,13,1738,220,12,629,241,27,1867,1243,72,5116,4576,35,2078,2078
+Meghalaya,Ri Bhoi,BHOIRYMBONG,265,0,23,1145,0,23,2416,147,12,943,406,22,994,628,11,1160,1039,174,8841,8841
+Meghalaya,Ri Bhoi,Jirang,155,3,39,1484,0,16,742,57,9,365,121,17,768,472,27,2405,2178,44,1925,1925
+Meghalaya,Ri Bhoi,Umling,338,0,108,10640,0,2,67,15,8,294,113,11,813,524,21,1548,1404,188,8156,8156
+Meghalaya,Ri Bhoi,Umsning,365,5,127,5358,0,20,1686,165,15,954,359,20,1349,828,28,2191,1994,150,6571,6571
+Meghalaya,South Garo Hills,Baghmara,234,18,74,3574,0,4,409,67,17,991,369,28,1702,1076,38,1940,1784,55,3258,3258
+Meghalaya,South Garo Hills,Chokpot,370,15,84,2050,0,1,94,2,20,769,262,76,2085,1324,129,3802,3329,45,1497,1497
+Meghalaya,South Garo Hills,Gasuapara,181,39,69,2080,0,0,0,0,7,378,164,7,416,264,27,926,805,32,1239,1239
+Meghalaya,South Garo Hills,Rongara,199,7,72,2388,0,3,149,31,12,704,244,21,912,559,38,1405,1282,46,1733,1733
+Meghalaya,South West Garo Hills,Betasing,375,1,58,1545,0,13,619,46,10,293,113,41,920,596,85,4593,4133,167,4836,4836
+Meghalaya,South West Garo Hills,Rerapara,149,1,37,1577,0,14,1293,33,0,0,0,6,218,145,36,3699,3397,55,4484,4484
+Meghalaya,South West Garo Hills,Zikzak,421,0,138,4812,0,23,1070,33,10,364,144,36,1446,924,62,6551,5834,152,9262,9262
+Meghalaya,South West Khasi Hills,Mawkyrwat,307,0,160,5916,0,7,640,80,7,258,99,7,373,234,19,1717,1476,107,3495,3495
+Meghalaya,South West Khasi Hills,Ranikor,171,0,65,3349,0,1,75,9,0,0,0,7,583,383,5,485,403,93,4925,4925
+Meghalaya,West Garo Hills,Dadenggiri,163,0,110,5704,0,14,1203,178,10,1007,422,7,605,399,10,756,675,12,675,675
+Meghalaya,West Garo Hills,Dalu,460,1,219,6780,0,16,800,113,13,667,240,46,1748,1105,94,3375,2914,71,1591,1591
+Meghalaya,West Garo Hills,DEMDEMA,206,0,83,7622,0,19,3774,457,28,3063,1160,16,1329,841,27,2505,2106,33,5537,5537
+Meghalaya,West Garo Hills,Gambegre,149,0,31,1546,0,4,292,25,5,231,104,10,388,205,11,543,455,88,4008,4008
+Meghalaya,West Garo Hills,Rongram,248,0,101,5615,0,14,1013,155,9,355,120,7,340,208,14,1792,1661,103,8058,8058
+Meghalaya,West Garo Hills,Salsella,349,4,104,5572,0,25,3594,550,28,2492,892,31,1518,952,41,1960,1820,116,6310,6310
+Meghalaya,West Garo Hills,Tikrikilla,272,0,140,7961,0,20,2126,338,6,385,146,16,1183,685,31,1721,1565,59,3098,3098
+Meghalaya,West Jaintia Hills,Amlarem,136,0,29,1489,0,8,1272,64,4,235,100,10,393,236,41,4228,3882,44,1943,1943
+Meghalaya,West Jaintia Hills,Laskein,126,0,31,5093,0,25,6197,499,3,711,311,8,1109,704,39,5755,5356,20,2489,2489
+Meghalaya,West Jaintia Hills,Thadlaskein,161,7,93,15937,0,19,4603,380,1,29,10,3,448,298,20,2988,2788,18,2947,2947
+Meghalaya,West Khasi Hills,Mawshynrut,348,9,167,8327,0,8,735,79,15,987,373,26,1231,759,71,4071,3678,52,2810,2810
+Meghalaya,West Khasi Hills,Nongstoin,311,5,123,4664,0,8,715,96,20,1954,735,33,2040,1301,67,3747,3369,55,3163,3163

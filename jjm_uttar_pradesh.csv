@@ -1,0 +1,31 @@
+State,District,Block Name,Total Habitations as on 01/04/2022,Non PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations
+,,Block Name,Total Habitations as on 01/04/2022,Non PWS Habitations,With FHTC Coverage = 0 %,With FHTC Coverage = 0 %,With FHTC Coverage = 0 %,With FHTC Coverage >0 and <25 %,With FHTC Coverage >0 and <25 %,With FHTC Coverage >0 and <25 %,With FHTC Coverage >=25 and <50 %,With FHTC Coverage >=25 and <50 %,With FHTC Coverage >=25 and <50 %,With FHTC Coverage >=50 and <75 %,With FHTC Coverage >=50 and <75 %,With FHTC Coverage >=50 and <75 %,With FHTC Coverage >=75 and <100 %,With FHTC Coverage >=75 and <100 %,With FHTC Coverage >=75 and <100 %,With FHTC Coverage >=100 %,With FHTC Coverage >=100 %,With FHTC Coverage >=100 %
+,,Block Name,Total Habitations as on 01/04/2022,Non PWS Habitations,Habs,House Holds,House Connectons,Habs,House Holds,House Connectons,Habs,House Holds,House Connectons,Habs,House Holds,House Connectons,Habs,House Holds,House Connectons,Habs,House Holds,House Connectons
+,,Total,"2,602","1,618",496,"1,06,102",0,15,"6,718",631,7,"3,573","1,217",8,"4,464","2,973",6,"1,946","1,604",452,"93,471","93,471"
+Andhra Pradesh,Agra,Achhnera,103,58,9,5256,0,2,1000,70,1,667,194,0,0,0,0,0,0,33,12195,12195
+Andhra Pradesh,Agra,Akola,94,56,18,3497,0,1,462,14,2,1692,573,1,219,148,1,463,362,15,4676,4676
+Andhra Pradesh,Agra,Bah,210,145,51,8661,0,1,735,32,0,0,0,0,0,0,0,0,0,13,4500,4500
+Andhra Pradesh,Agra,Barauli Ahir,193,134,25,10462,0,1,987,60,0,0,0,0,0,0,0,0,0,33,8499,8499
+Andhra Pradesh,Agra,Bichpuri,67,13,39,15718,0,0,0,0,0,0,0,0,0,0,0,0,0,15,5745,5745
+Andhra Pradesh,Agra,Etmadpur,193,104,48,9006,0,1,631,47,0,0,0,0,0,0,1,36,28,39,5841,5841
+Andhra Pradesh,Agra,Fatehabad,372,256,76,8711,0,3,532,120,2,614,200,2,667,372,2,738,600,31,4369,4369
+Andhra Pradesh,Agra,Fatehpur Sikri,126,91,9,2886,0,1,192,10,0,0,0,0,0,0,1,616,527,24,6636,6636
+Andhra Pradesh,Agra,Jagner,129,78,35,5941,0,1,344,52,1,378,161,0,0,0,0,0,0,14,2729,2729
+Andhra Pradesh,Agra,Jaitpur Kalan,177,121,46,7933,0,1,609,9,0,0,0,0,0,0,0,0,0,9,2732,2732
+Andhra Pradesh,Agra,Khandauli,183,89,26,4260,0,0,0,0,0,0,0,1,479,345,0,0,0,67,10658,10658
+Andhra Pradesh,Agra,Kheragarh,130,51,36,7598,0,1,561,115,0,0,0,1,1971,1408,0,0,0,41,6589,6589
+Andhra Pradesh,Agra,Pinahat,178,123,29,6134,0,1,478,87,0,0,0,0,0,0,0,0,0,25,3391,3391
+Andhra Pradesh,Agra,Saiyan,160,88,35,6706,0,0,0,0,0,0,0,0,0,0,0,0,0,37,5424,5424
+Andhra Pradesh,Agra,Shamsabad,287,211,14,3333,0,1,187,15,1,222,89,3,1128,700,1,93,87,56,9487,9487
+Andhra Pradesh,Aligarh,Akrabad,175,13,129,19034,0,21,7126,685,3,1106,435,4,851,543,3,1457,1280,2,106,106
+Andhra Pradesh,Aligarh,Atrauli,137,3,105,29115,0,10,5248,500,4,1555,543,2,803,531,4,1194,1051,9,2373,2373
+Andhra Pradesh,Aligarh,Bijauli,147,8,112,25567,0,1,186,40,4,294,119,0,0,0,5,1764,1493,17,4558,4558
+Andhra Pradesh,Aligarh,Chandaus,124,4,89,21640,0,9,2580,307,5,1245,472,4,1057,573,4,900,742,9,2521,2521
+Andhra Pradesh,Aligarh,Dhanipur,147,5,84,17244,0,15,6582,605,8,2072,871,5,1783,1139,6,2132,1945,24,5376,5376
+Andhra Pradesh,Aligarh,Gangiri,233,3,161,31577,0,5,750,92,6,1936,727,6,2462,1641,5,1873,1696,47,10047,10047
+Andhra Pradesh,Aligarh,Gonda,245,13,186,23500,0,6,1098,141,5,746,289,3,1061,597,5,1245,1173,27,2830,2830
+Andhra Pradesh,Aligarh,Iglas,188,15,125,19966,0,12,2138,151,7,1602,526,5,1061,652,5,755,658,19,4017,4017
+Andhra Pradesh,Aligarh,Jawan Sikanderpur,152,9,97,21392,0,15,4703,642,11,3357,1067,6,1858,1114,5,2235,2040,9,2421,2421
+Andhra Pradesh,Aligarh,Khair,144,6,105,23745,0,13,2974,361,3,1515,571,3,1434,968,6,2491,2210,8,1803,1803
+Andhra Pradesh,Aligarh,Lodha,133,4,77,17904,0,10,3967,541,10,3206,1191,7,1277,766,12,4313,3545,13,3524,3524
+Andhra Pradesh,Aligarh,Tappal,112,4,79,24695,0,6,2108,127,1,334,136,3,1546,1140,3,706,668,16,3620,3620

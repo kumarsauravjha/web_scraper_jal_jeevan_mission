@@ -11,19 +11,19 @@ import os
 # %%
 url = 'https://ejalshakti.gov.in/JJM/JJMReports/Physical/JJMRep_FHTCCoverage.aspx'
 
-# chrome_options = webdriver.ChromeOptions()
-# chrome_options.add_argument('--headless')
-# chrome_options.add_argument('--no-sandbox')
-# chrome_options.add_argument('--disable-dev-shm-usage')
+chrome_options = webdriver.ChromeOptions()
+chrome_options.add_argument('--headless')
+chrome_options.add_argument('--no-sandbox')
+chrome_options.add_argument('--disable-dev-shm-usage')
 
-# driver = webdriver.Chrome(options=chrome_options)
-driver = webdriver.Chrome()
+driver = webdriver.Chrome(options=chrome_options)
+# driver = webdriver.Chrome()
 driver.get(url)
 
 time.sleep(5)
 #for the Year
 year_dropdown = Select(driver.find_element(By.NAME, 'ctl00$CPHPage$ddFinyear'))
-year_dropdown.select_by_value('2023-2024')
+year_dropdown.select_by_value('2022-2023')
 
 # Select State from dropdown
 state_dropdown = Select(driver.find_element(By.NAME, 'ctl00$CPHPage$ddState'))
@@ -34,6 +34,8 @@ os.makedirs('data', exist_ok=True)
 
 final_df = pd.DataFrame()
 final_df_all = pd.DataFrame()
+failed_districts = pd.DataFrame()
+count=0
 for state_value, state_name in states:
     try:
         #to refresh state dropdown to avoid staleElement exception
@@ -49,7 +51,7 @@ for state_value, state_name in states:
         district_dropdown = Select(driver.find_element(By.NAME, 'ctl00$CPHPage$ddDistrict'))
 
         districts = [(option.get_attribute("value"), option.text) for option in district_dropdown.options if option.get_attribute("value") and option.text != "All District"]
-
+        district_cols = districts.columns
 
         for district_value, district_name in districts:
             try:
@@ -75,8 +77,6 @@ for state_value, state_name in states:
                     # print("Empty df shape now", df.shape)
                 
                     df = df[~df.apply(lambda x: x.astype(str).str.contains('Total', na=False)).any(axis=1)]
-                    if "S.No." in df.columns:
-                        df.drop(columns=["S.No."], inplace=True)
 
                     df.insert(0, 'State', state_name)
                 
@@ -95,10 +95,14 @@ for state_value, state_name in states:
                         print("2nd final df shape ", final_df.shape)
                 else:
                     print(f"Table not found for district: {district_name}")
+                    # failed_districts = pd.concat([district_value, district_name], district_cols)
             except Exception as e:
                 print(f"Error processing district {district_name}: {str(e)}")
+                # failed_districts = pd.concat([district_value, district_name], district_cols)
                 continue
         print("final df shape", final_df.shape)
+        if "S.No." in final_df.columns:
+                        final_df.drop(columns=["S.No."], inplace=True)
         if final_df_all.empty:
             final_df_all = final_df
         else:
@@ -108,6 +112,12 @@ for state_value, state_name in states:
         final_df.to_csv(f'data/jjm_{state_name}.csv', index=False)    
         final_df = pd.DataFrame()
         print("final df all shape", final_df_all.shape)
+        # if not failed_districts.empty and count != 0:
+        #      #go to statement 54 and count = count + 1
+        #      count = count + 1
+        #      districts = failed_districts
+        # failed_districts = pd.DataFrame()
+             
     except Exception as e:
                 print(f"Error processing state {state_name}: {str(e)}")
                 continue

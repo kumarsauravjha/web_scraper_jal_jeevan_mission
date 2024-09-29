@@ -1,0 +1,36 @@
+State,District,Block Name,Total Habitations as on 01/04/2022,Non PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations
+,,Block Name,Total Habitations as on 01/04/2022,Non PWS Habitations,With FHTC Coverage = 0 %,With FHTC Coverage = 0 %,With FHTC Coverage = 0 %,With FHTC Coverage >0 and <25 %,With FHTC Coverage >0 and <25 %,With FHTC Coverage >0 and <25 %,With FHTC Coverage >=25 and <50 %,With FHTC Coverage >=25 and <50 %,With FHTC Coverage >=25 and <50 %,With FHTC Coverage >=50 and <75 %,With FHTC Coverage >=50 and <75 %,With FHTC Coverage >=50 and <75 %,With FHTC Coverage >=75 and <100 %,With FHTC Coverage >=75 and <100 %,With FHTC Coverage >=75 and <100 %,With FHTC Coverage >=100 %,With FHTC Coverage >=100 %,With FHTC Coverage >=100 %
+,,Block Name,Total Habitations as on 01/04/2022,Non PWS Habitations,Habs,House Holds,House Connectons,Habs,House Holds,House Connectons,Habs,House Holds,House Connectons,Habs,House Holds,House Connectons,Habs,House Holds,House Connectons,Habs,House Holds,House Connectons
+,,Total,63,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,63,"8,827","8,827"
+Sikkim,GANGTOK,Khamdong,52,0,5,285,0,1,55,3,0,0,0,3,161,97,33,1936,1848,10,732,732
+Sikkim,GANGTOK,Martam,68,0,1,75,0,0,0,0,0,0,0,0,0,0,24,1436,1328,43,2104,2104
+Sikkim,GANGTOK,Nandok,72,0,0,0,0,0,0,0,0,0,0,3,193,108,35,2568,2511,34,1668,1668
+Sikkim,GANGTOK,Rakdong Tintek,80,0,1,150,0,0,0,0,3,246,67,1,75,40,29,1688,1618,46,1995,1995
+Sikkim,GANGTOK,Ranka,58,0,3,234,0,1,47,9,7,544,188,9,483,313,17,1089,1015,21,1361,1361
+Sikkim,GYALSHING,Arithang Chongrang,75,0,5,415,0,0,0,0,0,0,0,1,55,34,0,0,0,69,2915,2915
+Sikkim,GYALSHING,Dentam,97,0,6,1094,0,0,0,0,1,24,9,5,360,248,7,418,346,78,3950,3950
+Sikkim,GYALSHING,Gyalshing,95,0,4,1268,0,0,0,0,0,0,0,0,0,0,2,109,107,89,4935,4935
+Sikkim,GYALSHING,Hee Martam,45,0,2,143,0,0,0,0,0,0,0,0,0,0,4,274,236,39,2325,2325
+Sikkim,GYALSHING,Yuksom,41,0,1,390,0,0,0,0,1,71,32,0,0,0,0,0,0,39,2587,2587
+Sikkim,MANGAN,Chungthang,63,0,1,201,0,1,376,1,0,0,0,1,100,68,0,0,0,60,1814,1814
+Sikkim,MANGAN,Kabi Tingda,76,0,2,625,0,1,319,24,0,0,0,3,116,84,5,337,317,65,2623,2623
+Sikkim,MANGAN,Mangan,81,0,1,132,0,0,0,0,0,0,0,0,0,0,5,666,655,75,2836,2836
+Sikkim,MANGAN,Passingdang,49,0,0,0,0,0,0,0,0,0,0,0,0,0,9,289,273,40,1831,1831
+Sikkim,NAMCHI,Jorethang,38,0,0,0,0,0,0,0,0,0,0,0,0,0,18,789,755,20,888,888
+Sikkim,NAMCHI,Namchi,91,0,3,224,0,1,442,26,0,0,0,11,490,317,40,2472,2378,36,1879,1879
+Sikkim,NAMCHI,Namthang,86,0,5,378,0,2,156,30,2,264,120,11,853,551,24,1685,1598,42,2493,2493
+Sikkim,NAMCHI,Ravangla,112,0,7,1664,0,0,0,0,4,485,172,13,662,434,22,1122,1035,66,2303,2303
+Sikkim,NAMCHI,Sumbuk,86,0,6,719,0,1,32,7,3,264,94,6,449,302,11,636,556,59,2852,2852
+Sikkim,NAMCHI,Temi,89,0,0,0,0,0,0,0,2,236,95,3,291,183,25,1632,1489,59,3113,3113
+Sikkim,NAMCHI,Wok,28,0,0,0,0,0,0,0,0,0,0,0,0,0,19,1024,997,9,461,461
+Sikkim,NAMCHI,Yangang,82,0,2,333,0,14,748,81,7,455,190,7,463,286,39,2146,1861,13,707,707
+Sikkim,PAKYONG,DUGA,64,0,1,37,0,5,349,38,4,749,258,3,539,335,17,1519,1471,34,1970,1970
+Sikkim,PAKYONG,PAKYONG,158,0,12,1300,0,0,0,0,4,195,73,7,412,269,37,1758,1584,98,5425,5425
+Sikkim,PAKYONG,Parkha,28,0,1,41,0,1,66,2,0,0,0,6,356,223,9,475,432,11,569,569
+Sikkim,PAKYONG,Reghu,74,0,8,666,0,1,50,10,6,339,115,8,599,340,21,1233,1134,30,1423,1423
+Sikkim,PAKYONG,Rhenock,61,0,8,1004,0,2,77,5,0,0,0,4,326,192,18,1074,996,29,1656,1656
+Sikkim,SORENG,DUGA,64,0,1,37,0,5,349,38,4,749,258,3,539,335,17,1519,1471,34,1970,1970
+Sikkim,SORENG,PAKYONG,158,0,12,1300,0,0,0,0,4,195,73,7,412,269,37,1758,1584,98,5425,5425
+Sikkim,SORENG,Parkha,28,0,1,41,0,1,66,2,0,0,0,6,356,223,9,475,432,11,569,569
+Sikkim,SORENG,Reghu,74,0,8,666,0,1,50,10,6,339,115,8,599,340,21,1233,1134,30,1423,1423
+Sikkim,SORENG,Rhenock,61,0,8,1004,0,2,77,5,0,0,0,4,326,192,18,1074,996,29,1656,1656
