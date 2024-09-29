@@ -1,0 +1,35 @@
+State,District,Block Name,Total Habitations as on 01/04/2023,Non PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations
+,,Block Name,Total Habitations as on 01/04/2023,Non PWS Habitations,With FHTC Coverage = 0 %,With FHTC Coverage = 0 %,With FHTC Coverage = 0 %,With FHTC Coverage >0 and <25 %,With FHTC Coverage >0 and <25 %,With FHTC Coverage >0 and <25 %,With FHTC Coverage >=25 and <50 %,With FHTC Coverage >=25 and <50 %,With FHTC Coverage >=25 and <50 %,With FHTC Coverage >=50 and <75 %,With FHTC Coverage >=50 and <75 %,With FHTC Coverage >=50 and <75 %,With FHTC Coverage >=75 and <100 %,With FHTC Coverage >=75 and <100 %,With FHTC Coverage >=75 and <100 %,With FHTC Coverage >=100 %,With FHTC Coverage >=100 %,With FHTC Coverage >=100 %
+,,Block Name,Total Habitations as on 01/04/2023,Non PWS Habitations,Habs,House Holds,House Connectons,Habs,House Holds,House Connectons,Habs,House Holds,House Connectons,Habs,House Holds,House Connectons,Habs,House Holds,House Connectons,Habs,House Holds,House Connectons
+,,Total,63,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,63,"8,827","8,827"
+Ladakh,Kargil,Barsoo,47,0,2,21,0,0,0,0,2,18,8,8,139,90,13,197,171,22,430,430
+Ladakh,Kargil,Bhimbat,43,0,0,0,0,0,0,0,0,0,0,1,7,5,7,141,129,35,959,959
+Ladakh,Kargil,Drass,50,0,0,0,0,0,0,0,1,23,10,2,82,52,1,13,12,46,1051,1051
+Ladakh,Kargil,Gm Pora (Trespone),64,0,1,9,0,2,82,7,5,151,53,8,211,139,35,1031,932,13,382,382
+Ladakh,Kargil,Kargil,87,0,7,160,0,1,20,2,2,108,33,11,346,222,21,707,627,45,992,992
+Ladakh,Kargil,Karsha,92,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,92,1031,1031
+Ladakh,Kargil,Lotsum,32,0,2,10,0,1,14,2,2,32,9,6,101,58,6,65,51,15,185,185
+Ladakh,Kargil,Lungnak,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,36,405,405
+Ladakh,Kargil,Pashkum,15,0,0,0,0,0,0,0,0,0,0,5,190,132,5,215,177,5,170,170
+Ladakh,Kargil,Sankoo,97,0,5,18,0,3,71,9,4,68,25,9,138,86,31,756,686,45,941,941
+Ladakh,Kargil,Shaker Chaktan,80,0,2,7,0,1,5,1,1,5,2,13,305,194,38,904,824,25,467,467
+Ladakh,Kargil,Shargol,55,0,1,2,0,3,34,4,4,69,22,6,120,80,13,292,261,28,335,335
+Ladakh,Kargil,Soudh,87,0,7,187,0,3,71,7,3,61,25,15,362,229,30,678,607,29,432,432
+Ladakh,Kargil,Taisuru,90,0,0,0,0,0,0,0,2,37,16,6,71,42,23,465,421,59,1102,1102
+Ladakh,Kargil,Zansker,65,0,0,0,0,0,0,0,0,0,0,0,0,0,1,89,88,64,1162,1162
+Ladakh,Leh Ladakh,Chuchot,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,2043,2043
+Ladakh,Leh Ladakh,Deskit,38,0,0,0,0,0,0,0,2,32,15,4,66,37,7,749,642,25,1402,1402
+Ladakh,Leh Ladakh,Durbuk,33,0,0,0,0,0,0,0,0,0,0,0,0,0,3,98,84,30,899,899
+Ladakh,Leh Ladakh,Khaltsi,41,0,1,4,0,0,0,0,1,10,4,0,0,0,5,123,116,34,802,802
+Ladakh,Leh Ladakh,Kharu,31,0,1,25,0,0,0,0,5,201,76,1,42,31,5,557,514,19,841,841
+Ladakh,Leh Ladakh,Leh,41,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41,4841,4841
+Ladakh,Leh Ladakh,Nimoo,41,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41,1031,1031
+Ladakh,Leh Ladakh,Nyoma,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18,985,985
+Ladakh,Leh Ladakh,Panamic,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,30,1282,1282
+Ladakh,Leh Ladakh,Rong,31,0,3,12,0,0,0,0,1,14,6,1,6,3,0,0,0,26,622,622
+Ladakh,Leh Ladakh,Rupsho,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,482,482
+Ladakh,Leh Ladakh,Saspol,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21,685,685
+Ladakh,Leh Ladakh,Singay Lalok Wanla,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,28,455,455
+Ladakh,Leh Ladakh,Sukerbachan,31,0,3,21,0,1,25,6,1,24,8,0,0,0,1,65,52,25,884,884
+Ladakh,Leh Ladakh,Thiksay,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,1193,1193
+Ladakh,Leh Ladakh,Turtuk,22,0,0,0,0,4,140,16,1,27,12,2,191,125,5,444,379,10,533,533

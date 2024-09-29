@@ -1,0 +1,38 @@
+State,District,Block Name,Total Habitations as on 01/04/2023,Non PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations
+,,Block Name,Total Habitations as on 01/04/2023,Non PWS Habitations,With FHTC Coverage = 0 %,With FHTC Coverage = 0 %,With FHTC Coverage = 0 %,With FHTC Coverage >0 and <25 %,With FHTC Coverage >0 and <25 %,With FHTC Coverage >0 and <25 %,With FHTC Coverage >=25 and <50 %,With FHTC Coverage >=25 and <50 %,With FHTC Coverage >=25 and <50 %,With FHTC Coverage >=50 and <75 %,With FHTC Coverage >=50 and <75 %,With FHTC Coverage >=50 and <75 %,With FHTC Coverage >=75 and <100 %,With FHTC Coverage >=75 and <100 %,With FHTC Coverage >=75 and <100 %,With FHTC Coverage >=100 %,With FHTC Coverage >=100 %,With FHTC Coverage >=100 %
+,,Block Name,Total Habitations as on 01/04/2023,Non PWS Habitations,Habs,House Holds,House Connectons,Habs,House Holds,House Connectons,Habs,House Holds,House Connectons,Habs,House Holds,House Connectons,Habs,House Holds,House Connectons,Habs,House Holds,House Connectons
+,,Total,63,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,63,"8,827","8,827"
+Sikkim,GANGTOK,Khamdong,52,0,0,0,0,0,0,0,0,0,0,0,0,0,38,2259,2166,14,910,910
+Sikkim,GANGTOK,Martam,68,0,0,0,0,0,0,0,0,0,0,0,0,0,10,718,658,58,2897,2897
+Sikkim,GANGTOK,Nandok,72,0,0,0,0,0,0,0,0,0,0,2,109,60,35,2579,2511,35,1741,1741
+Sikkim,GANGTOK,Rakdong Tintek,80,0,0,0,0,0,0,0,2,350,112,0,0,0,26,1456,1423,52,2348,2348
+Sikkim,GANGTOK,Ranka,58,0,0,0,0,0,0,0,0,0,0,4,202,124,14,924,874,40,2632,2632
+Sikkim,GYALSHING,Arithang Chongrang,75,0,0,0,0,1,275,26,0,0,0,0,0,0,0,0,0,74,3110,3110
+Sikkim,GYALSHING,Dentam,97,0,0,0,0,1,712,18,1,172,66,1,63,46,0,0,0,94,4899,4899
+Sikkim,GYALSHING,Gyalshing,95,0,0,0,0,2,541,40,0,0,0,1,343,215,0,0,0,92,5428,5428
+Sikkim,GYALSHING,Hee Martam,45,0,0,0,0,1,87,11,0,0,0,0,0,0,0,0,0,44,2655,2655
+Sikkim,GYALSHING,Yuksom,44,0,3,68,0,0,0,0,1,390,140,0,0,0,0,0,0,40,2658,2658
+Sikkim,MANGAN,Chungthang,63,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,63,2491,2491
+Sikkim,MANGAN,Kabi Tingda,76,0,0,0,0,1,615,44,0,0,0,1,319,213,0,0,0,74,3086,3086
+Sikkim,MANGAN,Mangan,83,1,1,396,0,0,0,0,0,0,0,0,0,0,0,0,0,81,3634,3634
+Sikkim,MANGAN,Passingdang,49,0,0,0,0,0,0,0,0,0,0,0,0,0,2,50,48,47,2070,2070
+Sikkim,NAMCHI,Jorethang,38,0,0,0,0,0,0,0,0,0,0,0,0,0,18,789,755,20,888,888
+Sikkim,NAMCHI,Namchi,91,0,0,0,0,3,642,57,0,0,0,7,257,176,42,2510,2428,39,2098,2098
+Sikkim,NAMCHI,Namthang,86,0,0,0,0,2,329,65,1,89,39,9,840,540,20,1305,1221,54,3266,3266
+Sikkim,NAMCHI,Ravangla,112,0,0,0,0,2,1395,258,2,155,65,15,912,583,22,1188,1103,71,2586,2586
+Sikkim,NAMCHI,Sumbuk,86,0,0,0,0,2,615,50,2,208,74,8,457,313,15,820,763,59,2852,2852
+Sikkim,NAMCHI,Temi,90,0,1,33,0,0,0,0,0,0,0,0,0,0,13,991,900,76,4281,4281
+Sikkim,NAMCHI,Wok,28,0,0,0,0,0,0,0,0,0,0,0,0,0,15,834,812,13,651,651
+Sikkim,NAMCHI,Yangang,82,0,0,0,0,4,192,40,6,563,212,7,481,277,45,2514,2263,20,1102,1102
+Sikkim,PAKYONG,DUGA,47,0,0,0,0,6,386,45,4,749,270,2,239,154,14,1416,1313,21,1236,1236
+Sikkim,PAKYONG,Namcheybong,73,0,0,0,0,2,284,6,0,0,0,0,0,0,16,771,715,55,3337,3337
+Sikkim,PAKYONG,PAKYONG,103,0,1,33,0,8,793,45,3,107,42,5,206,147,15,905,857,71,3824,3824
+Sikkim,PAKYONG,Parkha,28,0,0,0,0,1,66,2,0,0,0,4,247,159,7,327,287,16,867,867
+Sikkim,PAKYONG,Reghu,75,0,1,197,0,5,136,24,7,504,157,6,321,193,24,1676,1571,32,1673,1673
+Sikkim,PAKYONG,Rhenock,62,1,0,0,0,0,0,0,0,0,0,0,0,0,25,1878,1796,36,2259,2259
+Sikkim,SORENG,BAIGUNEY,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,32,1784,1784
+Sikkim,SORENG,Chumbong Chakung,33,0,0,0,0,2,392,77,0,0,0,1,40,24,1,100,95,29,1432,1432
+Sikkim,SORENG,DARAMDIN,72,0,0,0,0,0,0,0,0,0,0,0,0,0,2,295,278,70,4621,4621
+Sikkim,SORENG,KALUK,55,0,0,0,0,1,122,22,2,148,45,2,126,83,4,272,234,46,2018,2018
+Sikkim,SORENG,MANGALBAREY,34,0,0,0,0,1,122,17,0,0,0,0,0,0,2,137,129,31,1828,1828
+Sikkim,SORENG,SORENG,83,0,0,0,0,3,1165,34,2,112,36,4,307,189,21,1470,1266,53,2649,2649
