@@ -23,7 +23,7 @@ driver.get(url)
 time.sleep(5)
 #for the Year
 year_dropdown = Select(driver.find_element(By.NAME, 'ctl00$CPHPage$ddFinyear'))
-year_dropdown.select_by_value('2022-2023')
+year_dropdown.select_by_value('2024-2025')
 
 # Select State from dropdown
 state_dropdown = Select(driver.find_element(By.NAME, 'ctl00$CPHPage$ddState'))
@@ -31,6 +31,8 @@ state_dropdown = Select(driver.find_element(By.NAME, 'ctl00$CPHPage$ddState'))
 states = [(option.get_attribute("value"), option.text) for option in state_dropdown.options if option.get_attribute("value") and option.text != "All State"]
 
 os.makedirs('data', exist_ok=True)
+
+print(states)
 
 final_df = pd.DataFrame()
 final_df_all = pd.DataFrame()
@@ -51,7 +53,7 @@ for state_value, state_name in states:
         district_dropdown = Select(driver.find_element(By.NAME, 'ctl00$CPHPage$ddDistrict'))
 
         districts = [(option.get_attribute("value"), option.text) for option in district_dropdown.options if option.get_attribute("value") and option.text != "All District"]
-        district_cols = districts.columns
+        # district_cols = districts.columns
 
         for district_value, district_name in districts:
             try:
@@ -93,6 +95,8 @@ for state_value, state_name in states:
                         final_df = pd.concat([final_df, df], ignore_index=True)
                         # print(final_df)
                         print("2nd final df shape ", final_df.shape)
+
+                    print(f"Done for {state_name}: {district_name}")
                 else:
                     print(f"Table not found for district: {district_name}")
                     # failed_districts = pd.concat([district_value, district_name], district_cols)

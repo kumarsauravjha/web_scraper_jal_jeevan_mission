@@ -1,0 +1,37 @@
+State,District,Block Name,Total Habitations as on 01/04/2024,Non PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations
+,,Block Name,Total Habitations as on 01/04/2024,Non PWS Habitations,With FHTC Coverage = 0 %,With FHTC Coverage = 0 %,With FHTC Coverage = 0 %,With FHTC Coverage >0 and <25 %,With FHTC Coverage >0 and <25 %,With FHTC Coverage >0 and <25 %,With FHTC Coverage >=25 and <50 %,With FHTC Coverage >=25 and <50 %,With FHTC Coverage >=25 and <50 %,With FHTC Coverage >=50 and <75 %,With FHTC Coverage >=50 and <75 %,With FHTC Coverage >=50 and <75 %,With FHTC Coverage >=75 and <100 %,With FHTC Coverage >=75 and <100 %,With FHTC Coverage >=75 and <100 %,With FHTC Coverage >=100 %,With FHTC Coverage >=100 %,With FHTC Coverage >=100 %
+,,Block Name,Total Habitations as on 01/04/2024,Non PWS Habitations,Habs,House Holds,House Connectons,Habs,House Holds,House Connectons,Habs,House Holds,House Connectons,Habs,House Holds,House Connectons,Habs,House Holds,House Connectons,Habs,House Holds,House Connectons
+,,Total,63,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,63,"8,827","8,827"
+Gujarat,North Goa,AHMEDABAD,632,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,632,364552,364552
+Gujarat,North Goa,Amreli,641,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,641,253485,253485
+Gujarat,North Goa,Anand,948,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,948,401409,401409
+Gujarat,North Goa,Arvalli,1316,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1316,280643,280643
+Gujarat,North Goa,Banas Kantha,1724,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1724,629379,629379
+Gujarat,North Goa,Bharuch,789,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,789,336863,336863
+Gujarat,North Goa,Bhavnagar,680,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,680,254497,254497
+Gujarat,North Goa,Botad,187,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,187,99640,99640
+Gujarat,North Goa,Chhotaudepur,1159,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1159,232985,232985
+Gujarat,North Goa,Dahod,3165,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3165,320768,320768
+Gujarat,North Goa,Dangs,318,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,318,47511,47511
+Gujarat,North Goa,Devbhumi Dwarka,267,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,267,115529,115529
+Gujarat,North Goa,Gandhinagar,477,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,477,284911,284911
+Gujarat,North Goa,Gir Somnath,348,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,348,172472,172472
+Gujarat,North Goa,Jamnagar,475,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,475,142084,142084
+Gujarat,North Goa,Junagadh,522,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,522,200119,200119
+Gujarat,North Goa,Kachchh,1082,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1082,392043,392043
+Gujarat,North Goa,Kheda,1716,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1716,369324,369324
+Gujarat,North Goa,Mahesana,888,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,888,510503,510503
+Gujarat,North Goa,Mahisagar,1507,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1507,221848,221848
+Gujarat,North Goa,Morbi,367,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,367,181725,181725
+Gujarat,North Goa,Narmada,716,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,716,150861,150861
+Gujarat,North Goa,Navsari,3048,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3048,279766,279766
+Gujarat,North Goa,Panch Mahals,1399,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1399,356227,356227
+Gujarat,North Goa,Patan,647,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,647,284832,284832
+Gujarat,North Goa,Porbandar,178,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,178,63572,63572
+Gujarat,North Goa,Rajkot,605,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,605,323224,323224
+Gujarat,North Goa,Sabar Kantha,1125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1125,345649,345649
+Gujarat,North Goa,Surat,1642,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1642,383576,383576
+Gujarat,North Goa,Surendranagar,593,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,593,276504,276504
+Gujarat,North Goa,Tapi,1657,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1657,239124,239124
+Gujarat,North Goa,Vadodara,968,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,968,295351,295351
+Gujarat,North Goa,Valsad,4133,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4133,307439,307439

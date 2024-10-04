@@ -1,0 +1,85 @@
+State,District,Block Name,Total Habitations as on 01/04/2021,Non PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations
+,,Block Name,Total Habitations as on 01/04/2021,Non PWS Habitations,With FHTC Coverage = 0 %,With FHTC Coverage = 0 %,With FHTC Coverage = 0 %,With FHTC Coverage >0 and <25 %,With FHTC Coverage >0 and <25 %,With FHTC Coverage >0 and <25 %,With FHTC Coverage >=25 and <50 %,With FHTC Coverage >=25 and <50 %,With FHTC Coverage >=25 and <50 %,With FHTC Coverage >=50 and <75 %,With FHTC Coverage >=50 and <75 %,With FHTC Coverage >=50 and <75 %,With FHTC Coverage >=75 and <100 %,With FHTC Coverage >=75 and <100 %,With FHTC Coverage >=75 and <100 %,With FHTC Coverage >=100 %,With FHTC Coverage >=100 %,With FHTC Coverage >=100 %
+,,Block Name,Total Habitations as on 01/04/2021,Non PWS Habitations,Habs,House Holds,House Connectons,Habs,House Holds,House Connectons,Habs,House Holds,House Connectons,Habs,House Holds,House Connectons,Habs,House Holds,House Connectons,Habs,House Holds,House Connectons
+,,Total,63,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,63,"8,827","8,827"
+Himachal Pradesh,Bilaspur,Bilaspur Sadar,713,0,0,0,0,0,0,0,2,37,15,20,737,472,46,2725,2450,645,18920,18920
+Himachal Pradesh,Bilaspur,Ghumarwin,730,0,0,0,0,0,0,0,0,0,0,2,253,159,3,641,602,725,38231,38231
+Himachal Pradesh,Bilaspur,Jhandutta,674,0,0,0,0,0,0,0,4,176,52,1,36,24,0,0,0,669,26687,26687
+Himachal Pradesh,Bilaspur,Shree Naina Devi,371,0,0,0,0,0,0,0,10,561,214,12,791,500,9,966,850,340,9418,9418
+Himachal Pradesh,Chamba,Bharmour,335,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,335,9794,9794
+Himachal Pradesh,Chamba,Bhatiyat,1677,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1677,32018,32018
+Himachal Pradesh,Chamba,Chamba,1692,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1692,16035,16035
+Himachal Pradesh,Chamba,Mehla,1517,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1517,19405,19405
+Himachal Pradesh,Chamba,Pangi,128,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,128,5685,5685
+Himachal Pradesh,Chamba,Salooni,1546,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1546,17972,17972
+Himachal Pradesh,Chamba,Tissa,1246,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1246,20843,20843
+Himachal Pradesh,Hamirpur,Bamsan,326,0,2,58,0,2,90,18,7,537,203,8,586,385,17,1655,1404,290,18345,18345
+Himachal Pradesh,Hamirpur,Bhoranj,373,0,6,289,0,3,225,26,13,1168,455,22,1462,974,48,2682,2410,281,15501,15501
+Himachal Pradesh,Hamirpur,Bijhari,610,0,60,1472,0,24,1030,165,36,1424,515,42,1478,904,76,3537,3203,372,13713,13713
+Himachal Pradesh,Hamirpur,Hamirpur,232,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,232,12629,12629
+Himachal Pradesh,Hamirpur,Nadaun,846,0,2,50,0,0,0,0,0,0,0,4,306,181,5,421,374,835,24603,24603
+Himachal Pradesh,Hamirpur,Sujanpur Tira,299,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,298,8901,8901
+Himachal Pradesh,Kangra,Baijnath,203,0,0,0,0,6,288,33,3,394,151,4,639,427,5,837,691,185,20445,20445
+Himachal Pradesh,Kangra,Bhawarna,201,0,0,0,0,5,1193,139,4,825,376,16,2181,1362,9,2851,2565,167,19342,19342
+Himachal Pradesh,Kangra,Dehra,1585,0,12,152,0,4,198,24,0,0,0,0,0,0,0,0,0,1569,35823,35823
+Himachal Pradesh,Kangra,Dharamshala,194,0,0,0,0,0,0,0,6,755,273,6,484,288,7,669,578,175,12034,12034
+Himachal Pradesh,Kangra,Fatehpur,672,4,8,469,0,1,66,6,21,721,272,41,1927,1248,85,4807,4305,512,32525,32525
+Himachal Pradesh,Kangra,Indora,312,4,7,494,0,35,3147,498,52,5539,1930,32,5075,3196,61,7622,6547,121,9673,9673
+Himachal Pradesh,Kangra,Kangra,477,0,0,0,0,2,418,29,8,248,90,17,811,505,15,1752,1680,435,24348,24348
+Himachal Pradesh,Kangra,Lambagaon,267,0,1,0,0,1,47,8,5,385,130,4,239,148,11,2286,2067,245,21085,21085
+Himachal Pradesh,Kangra,Nagrota Bagwan,475,0,7,365,0,27,711,109,59,2378,929,68,4063,2541,34,2027,1653,280,13069,13069
+Himachal Pradesh,Kangra,Nagrota Surian,562,27,6,852,0,3,91,7,12,244,96,32,1035,681,67,4966,4461,415,20430,20430
+Himachal Pradesh,Kangra,Nurpur,470,0,1,22,0,9,606,37,7,129,42,35,763,516,212,14201,12759,206,10345,10345
+Himachal Pradesh,Kangra,Panchrukhi,151,0,0,0,0,2,380,35,4,522,199,4,599,436,3,578,504,138,17991,17991
+Himachal Pradesh,Kangra,Pragpur,868,0,2,0,0,2,185,5,3,203,81,5,537,312,6,786,706,850,30223,30223
+Himachal Pradesh,Kangra,Rait,685,0,0,0,0,1,118,23,7,227,82,45,1514,1015,55,2565,2289,577,25993,25993
+Himachal Pradesh,Kangra,Sulah,407,0,0,0,0,5,294,32,16,977,346,27,2790,1874,34,3170,2826,325,22252,22252
+Himachal Pradesh,Kinnaur,Kalpa,125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,125,9113,9113
+Himachal Pradesh,Kinnaur,Nichar,147,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,147,7715,7715
+Himachal Pradesh,Kinnaur,Pooh,139,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,139,5935,5935
+Himachal Pradesh,Kullu,Anni,962,0,97,634,0,89,2085,204,59,1022,357,48,695,411,13,297,258,656,12205,12205
+Himachal Pradesh,Kullu,Banjar,944,0,113,809,0,64,1449,184,75,1913,684,84,2008,1277,60,1705,1494,548,8467,8467
+Himachal Pradesh,Kullu,Kullu,1077,1,16,305,0,55,2013,243,88,2554,968,73,4058,2545,55,3523,3165,789,25755,25755
+Himachal Pradesh,Kullu,Naggar,563,2,9,174,0,13,659,117,32,1118,466,42,1748,1132,31,2783,2440,434,19767,19767
+Himachal Pradesh,Kullu,Nirmand,721,0,0,0,0,10,141,22,22,324,115,19,362,222,16,413,346,654,15319,15319
+Himachal Pradesh,Lahaul And Spiti,Lahaul,279,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,279,4649,4649
+Himachal Pradesh,Lahaul And Spiti,Spiti,85,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,85,2635,2635
+Himachal Pradesh,Mandi,Balh,590,2,1,15,0,1,32,2,53,2632,1137,73,3861,2434,61,4086,3538,399,23226,23226
+Himachal Pradesh,Mandi,Balichowki,1104,63,14,57,0,27,632,73,17,406,155,18,901,572,29,1390,1217,936,17367,17367
+Himachal Pradesh,Mandi,Chauntra,604,1,6,298,0,3,45,6,10,169,72,46,849,528,55,1910,1645,483,22053,22053
+Himachal Pradesh,Mandi,Dharmpur,620,0,2,31,0,2,70,16,8,457,192,15,839,525,19,964,848,574,26532,26532
+Himachal Pradesh,Mandi,Drang,773,0,1,10,0,6,207,28,29,635,251,78,2994,1917,87,3373,2819,572,19054,19054
+Himachal Pradesh,Mandi,Gohar,1124,5,1,5,0,3,160,8,3,37,14,22,310,191,15,392,361,1075,23363,23363
+Himachal Pradesh,Mandi,Gopalpur,658,0,0,0,0,11,486,67,13,795,330,50,3920,2568,69,4634,4105,515,26836,26836
+Himachal Pradesh,Mandi,Karsog,1763,0,0,0,0,68,1286,183,64,1192,462,51,756,471,38,709,614,1542,25325,25325
+Himachal Pradesh,Mandi,Mandi Sadar,1096,0,10,371,0,67,2191,305,61,1820,625,113,4215,2639,133,6757,5880,712,18497,18497
+Himachal Pradesh,Mandi,Seraj,953,0,0,0,0,20,430,73,28,340,129,32,549,338,15,408,367,858,13042,13042
+Himachal Pradesh,Mandi,Sundarnagar,1304,0,0,0,0,44,1441,199,74,1988,709,95,3600,2353,52,2106,1820,1039,28423,28423
+Himachal Pradesh,Shimla,Basantpur,649,0,18,98,0,4,76,13,16,82,28,11,100,60,24,720,612,576,10395,10395
+Himachal Pradesh,Shimla,Chhohara,389,9,5,62,0,7,241,22,3,34,11,1,31,23,8,278,248,356,13366,13366
+Himachal Pradesh,Shimla,Chopal,1157,85,165,1840,0,36,1049,82,35,936,365,83,2220,1316,23,818,726,730,9426,9426
+Himachal Pradesh,Shimla,JUBBAL,1051,0,6,96,0,20,373,50,67,1460,560,94,1768,1066,94,2579,2283,770,13966,13966
+Himachal Pradesh,Shimla,KUPVI,196,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,196,3697,3697
+Himachal Pradesh,Shimla,Mashobra,1031,1,22,114,0,25,273,44,76,1125,434,94,1415,876,37,1620,1376,776,10466,10466
+Himachal Pradesh,Shimla,Nankhari,285,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,285,8010,8010
+Himachal Pradesh,Shimla,Narkanda,528,1,2,18,0,16,427,57,36,529,185,36,1341,818,28,1576,1316,409,10917,10917
+Himachal Pradesh,Shimla,Rampur,648,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,648,22735,22735
+Himachal Pradesh,Shimla,Rohru,492,27,33,1267,0,57,2724,311,36,1347,505,48,1897,1220,43,1705,1455,248,8708,8708
+Himachal Pradesh,Shimla,Theog,1408,0,57,545,0,127,2409,333,181,2996,1075,193,3298,1982,65,1036,889,785,11667,11667
+Himachal Pradesh,Shimla,Totu,283,0,0,0,0,15,254,35,28,430,166,43,795,487,17,811,722,180,2915,2915
+Himachal Pradesh,Sirmaur,Nahan,1076,5,7,70,0,33,584,89,103,1640,595,235,2927,1739,100,4151,3520,593,12699,12699
+Himachal Pradesh,Sirmaur,Pachhad,647,0,12,363,0,15,337,48,56,1236,462,48,1479,838,67,1858,1607,449,9927,9927
+Himachal Pradesh,Sirmaur,Paonta Sahib,627,7,64,1011,0,42,778,96,45,1164,442,37,1643,1010,17,818,722,415,37830,37830
+Himachal Pradesh,Sirmaur,Rajgarh,900,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,900,11477,11477
+Himachal Pradesh,Sirmaur,Sangrah,800,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,800,17088,17088
+Himachal Pradesh,Sirmaur,Shillai,418,0,0,0,0,2,66,9,4,131,50,3,97,61,23,948,783,386,10429,10429
+Himachal Pradesh,Solan,Dharampur,813,0,1,13,0,4,63,9,4,88,35,11,257,142,15,1148,1093,778,22318,22318
+Himachal Pradesh,Solan,Kandaghat,454,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,454,10471,10471
+Himachal Pradesh,Solan,Kunihar,786,0,0,0,0,0,0,0,1,6,2,2,25,16,18,253,230,765,17259,17259
+Himachal Pradesh,Solan,Nalagarh,939,0,5,98,0,13,1163,89,31,1358,530,42,1760,1159,189,10697,9756,659,29146,29146
+Himachal Pradesh,Solan,Solan,780,0,0,0,0,8,528,63,0,0,0,1,66,40,0,0,0,771,17104,17104
+Himachal Pradesh,Una,Amb,485,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,485,21080,21080
+Himachal Pradesh,Una,Bangana,816,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,816,17072,17072
+Himachal Pradesh,Una,Gagret,315,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,315,21233,21233
+Himachal Pradesh,Una,Haroli,294,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,294,22623,22623
+Himachal Pradesh,Una,Una,424,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,424,33941,33941

@@ -1,0 +1,16 @@
+State,District,Block Name,Total Habitations as on 01/04/2021,Non PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations
+,,Block Name,Total Habitations as on 01/04/2021,Non PWS Habitations,With FHTC Coverage = 0 %,With FHTC Coverage = 0 %,With FHTC Coverage = 0 %,With FHTC Coverage >0 and <25 %,With FHTC Coverage >0 and <25 %,With FHTC Coverage >0 and <25 %,With FHTC Coverage >=25 and <50 %,With FHTC Coverage >=25 and <50 %,With FHTC Coverage >=25 and <50 %,With FHTC Coverage >=50 and <75 %,With FHTC Coverage >=50 and <75 %,With FHTC Coverage >=50 and <75 %,With FHTC Coverage >=75 and <100 %,With FHTC Coverage >=75 and <100 %,With FHTC Coverage >=75 and <100 %,With FHTC Coverage >=100 %,With FHTC Coverage >=100 %,With FHTC Coverage >=100 %
+,,Block Name,Total Habitations as on 01/04/2021,Non PWS Habitations,Habs,House Holds,House Connectons,Habs,House Holds,House Connectons,Habs,House Holds,House Connectons,Habs,House Holds,House Connectons,Habs,House Holds,House Connectons,Habs,House Holds,House Connectons
+,,Total,63,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,63,"8,827","8,827"
+Goa,North Goa,Bardez,43,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,43,45884,45884
+Goa,North Goa,Bicholim,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25,18518,18518
+Goa,North Goa,Pernem,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,27,19676,19676
+Goa,North Goa,Ponda,31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31,32147,32147
+Goa,North Goa,Satari,72,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,72,13485,13485
+Goa,North Goa,Tiswadi,33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,33,35778,35778
+Goa,South Goa,Canacona,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,10096,10096
+Goa,South Goa,Dharbandora,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,5049,5049
+Goa,South Goa,Mormugao,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18,16574,16574
+Goa,South Goa,Quepem,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,35,12648,12648
+Goa,South Goa,Salcete,41,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41,44325,44325
+Goa,South Goa,Sanguem,31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31,8833,8833

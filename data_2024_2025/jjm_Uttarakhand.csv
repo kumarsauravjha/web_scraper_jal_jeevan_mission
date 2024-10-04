@@ -1,0 +1,96 @@
+State,District,Block Name,Total Habitations as on 01/04/2024,Non PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations
+,,Block Name,Total Habitations as on 01/04/2024,Non PWS Habitations,With FHTC Coverage = 0 %,With FHTC Coverage = 0 %,With FHTC Coverage = 0 %,With FHTC Coverage >0 and <25 %,With FHTC Coverage >0 and <25 %,With FHTC Coverage >0 and <25 %,With FHTC Coverage >=25 and <50 %,With FHTC Coverage >=25 and <50 %,With FHTC Coverage >=25 and <50 %,With FHTC Coverage >=50 and <75 %,With FHTC Coverage >=50 and <75 %,With FHTC Coverage >=50 and <75 %,With FHTC Coverage >=75 and <100 %,With FHTC Coverage >=75 and <100 %,With FHTC Coverage >=75 and <100 %,With FHTC Coverage >=100 %,With FHTC Coverage >=100 %,With FHTC Coverage >=100 %
+,,Block Name,Total Habitations as on 01/04/2024,Non PWS Habitations,Habs,House Holds,House Connectons,Habs,House Holds,House Connectons,Habs,House Holds,House Connectons,Habs,House Holds,House Connectons,Habs,House Holds,House Connectons,Habs,House Holds,House Connectons
+,,Total,63,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,63,"8,827","8,827"
+Uttarakhand,Almora,Bhaisiya Chhana,345,0,17,251,0,6,127,13,5,166,65,5,106,70,7,205,193,305,4956,4956
+Uttarakhand,Almora,Bhikiyasain,319,0,0,0,0,2,57,13,1,72,32,0,0,0,0,0,0,316,7366,7366
+Uttarakhand,Almora,Chaukhutiya,293,0,13,199,0,23,623,62,9,449,155,23,731,466,21,890,770,204,6623,6623
+Uttarakhand,Almora,Dhauladevi,768,1,19,270,0,9,104,13,11,153,55,13,243,159,46,1456,1358,669,10128,10128
+Uttarakhand,Almora,Dwarahat,465,0,21,243,0,14,548,55,14,289,108,26,1340,874,34,1518,1390,356,10928,10928
+Uttarakhand,Almora,Hawalbag,437,0,10,334,0,25,910,117,16,1622,732,13,284,182,36,2198,2026,337,11109,11109
+Uttarakhand,Almora,Lamgara,540,3,27,313,0,10,210,13,18,514,189,16,278,173,26,572,506,440,8570,8570
+Uttarakhand,Almora,Sult,645,0,10,133,0,26,404,43,18,353,118,19,514,343,33,1340,1196,539,9830,9830
+Uttarakhand,Almora,Syaldey,417,0,5,43,0,17,302,25,15,697,266,15,628,389,25,973,879,340,7962,7962
+Uttarakhand,Almora,Takula,453,1,23,449,0,15,552,61,8,345,119,16,527,311,27,696,613,363,9153,9153
+Uttarakhand,Almora,Tarikhet,478,2,20,301,0,28,854,78,22,718,287,42,1139,723,64,2663,2359,300,8890,8890
+Uttarakhand,Bageshwar,Bageshwar,1034,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1034,20642,20642
+Uttarakhand,Bageshwar,Garur,666,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,666,16030,16030
+Uttarakhand,Bageshwar,Kapkote,1018,0,0,0,0,0,0,0,2,6,2,4,41,27,8,116,100,1004,17824,17824
+Uttarakhand,Chamoli,Dasholi,395,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,393,8658,8658
+Uttarakhand,Chamoli,DEWAL,304,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,304,6332,6332
+Uttarakhand,Chamoli,Gairsain,437,0,1,16,0,0,0,0,0,0,0,1,17,11,2,60,57,433,13403,13403
+Uttarakhand,Chamoli,Ghat,413,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,411,9168,9168
+Uttarakhand,Chamoli,Joshimath,224,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,223,6896,6896
+Uttarakhand,Chamoli,Karnaprayag,376,0,0,0,0,0,0,0,0,0,0,0,0,0,1,165,153,375,9598,9598
+Uttarakhand,Chamoli,Narayanbagar,349,0,0,0,0,1,14,2,0,0,0,0,0,0,1,21,20,347,8185,8185
+Uttarakhand,Chamoli,Pokhari,330,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,330,6800,6800
+Uttarakhand,Chamoli,Tharali,325,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,325,7195,7195
+Uttarakhand,Champawat,Barakot,278,0,0,0,0,2,57,12,3,25,10,8,131,77,10,269,247,255,4764,4764
+Uttarakhand,Champawat,Champawat,969,0,2,4,0,0,0,0,2,20,8,6,68,39,5,89,76,954,19901,19901
+Uttarakhand,Champawat,Lohaghat,432,0,1,5,0,1,31,2,3,91,34,7,172,119,6,215,187,414,8505,8505
+Uttarakhand,Champawat,Pati,558,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,558,10793,10793
+Uttarakhand,Dehradun,Chakrata,810,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,810,11389,11389
+Uttarakhand,Dehradun,Doiwala,238,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,238,34111,34111
+Uttarakhand,Dehradun,Kalsi,739,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,739,9840,9840
+Uttarakhand,Dehradun,Raipur,263,0,3,21,0,0,0,0,2,30,12,0,0,0,2,40,37,256,5892,5892
+Uttarakhand,Dehradun,Sahaspur,222,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,222,32314,32314
+Uttarakhand,Dehradun,Vikasnagar,227,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,227,35854,35854
+Uttarakhand,Haridwar,Bahadrabad,158,0,5,475,0,3,204,37,7,1276,498,14,4316,2813,32,23364,21424,97,49089,49089
+Uttarakhand,Haridwar,Bhagwanpur,103,0,0,0,0,1,70,13,2,193,86,5,1951,1360,17,7315,6568,78,33259,33259
+Uttarakhand,Haridwar,Khanpur,53,0,0,0,0,0,0,0,2,170,74,4,468,305,15,4237,4069,32,6844,6844
+Uttarakhand,Haridwar,Laksar,100,1,1,48,0,1,25,5,0,0,0,2,543,304,13,10703,9921,82,24790,24790
+Uttarakhand,Haridwar,Narsan,91,0,0,0,0,4,1527,238,6,3038,1339,6,2676,1561,20,13662,12912,55,19971,19971
+Uttarakhand,Haridwar,Roorkee,82,1,2,262,0,1,275,51,0,0,0,2,1538,1011,16,8285,7557,60,28887,28887
+Uttarakhand,Nainital,Betalghat,264,1,0,0,0,12,261,52,18,434,156,14,483,313,41,2563,2264,178,6008,6008
+Uttarakhand,Nainital,Bhimtal,402,2,18,172,0,23,704,54,22,550,185,46,1698,1077,44,1880,1642,247,5299,5299
+Uttarakhand,Nainital,Dhari,302,0,0,0,0,8,896,63,26,931,365,37,1025,637,41,1479,1271,190,3933,3933
+Uttarakhand,Nainital,Haldwani,245,0,0,0,0,0,0,0,3,151,53,13,596,407,81,10235,9400,148,20846,20846
+Uttarakhand,Nainital,Kotabag,252,1,0,0,0,4,60,10,16,986,424,20,965,642,80,5855,5492,131,7134,7134
+Uttarakhand,Nainital,Okhalkanda,714,0,10,135,0,45,440,59,21,499,185,27,274,172,27,452,381,584,6977,6977
+Uttarakhand,Nainital,Ramgarh,348,5,14,166,0,24,600,45,26,951,336,39,1035,666,40,1390,1205,200,4954,4954
+Uttarakhand,Nainital,Ramnagar,162,0,0,0,0,4,194,12,9,276,107,17,1358,887,52,9695,9079,80,9733,9733
+Uttarakhand,PAURI GARHWAL,Bironkhal,391,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,390,8919,8919
+Uttarakhand,PAURI GARHWAL,Duggada,343,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,342,5855,5855
+Uttarakhand,PAURI GARHWAL,Dwarikhal,381,2,0,0,0,0,0,0,0,0,0,0,0,0,1,20,19,378,8210,8210
+Uttarakhand,PAURI GARHWAL,Ekeshwar,260,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,257,6763,6763
+Uttarakhand,PAURI GARHWAL,Kaljikhal,299,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,297,8052,8052
+Uttarakhand,PAURI GARHWAL,Khirsu,201,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,201,5216,5216
+Uttarakhand,PAURI GARHWAL,Kot,283,2,1,5,0,0,0,0,0,0,0,0,0,0,0,0,0,280,6516,6516
+Uttarakhand,PAURI GARHWAL,Nainidanda,426,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,426,7681,7681
+Uttarakhand,PAURI GARHWAL,Pabau,257,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,256,7701,7701
+Uttarakhand,PAURI GARHWAL,Pauri,245,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,241,7002,7002
+Uttarakhand,PAURI GARHWAL,Pokhra,179,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,179,5334,5334
+Uttarakhand,PAURI GARHWAL,Rikhnikhal,364,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,364,6191,6191
+Uttarakhand,PAURI GARHWAL,Thalisain,305,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,305,11884,11884
+Uttarakhand,PAURI GARHWAL,Yamkeshwar,360,3,0,0,0,0,0,0,0,0,0,0,0,0,1,98,97,356,9452,9452
+Uttarakhand,PAURI GARHWAL,Zahrikhal,353,3,1,20,0,0,0,0,0,0,0,0,0,0,0,0,0,349,5829,5829
+Uttarakhand,Pithoragarh,Berinag,601,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,599,10797,10797
+Uttarakhand,Pithoragarh,Dharchula,461,0,0,0,0,2,51,9,2,60,24,11,645,414,4,233,195,442,12911,12911
+Uttarakhand,Pithoragarh,Didihat,509,0,0,0,0,0,0,0,1,9,4,4,46,31,5,74,66,499,7542,7542
+Uttarakhand,Pithoragarh,Gangolihat,959,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,957,15157,15157
+Uttarakhand,Pithoragarh,Kanalichina,596,0,7,27,0,3,25,4,1,7,2,14,303,198,17,496,441,554,9134,9134
+Uttarakhand,Pithoragarh,Munakot,496,0,3,51,0,0,0,0,0,0,0,7,146,91,7,361,313,479,11178,11178
+Uttarakhand,Pithoragarh,Munsyari,541,0,4,71,0,0,0,0,3,50,21,5,115,66,12,426,372,517,10894,10894
+Uttarakhand,Pithoragarh,Pithoragarh,526,0,1,4,0,0,0,0,0,0,0,1,14,8,6,200,159,518,13469,13469
+Uttarakhand,Tehri Garhwal,Bhilangna,986,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,986,23107,23107
+Uttarakhand,Tehri Garhwal,Chamba,658,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,658,12533,12533
+Uttarakhand,Tehri Garhwal,Deoprayag,422,9,1,1,0,0,0,0,0,0,0,1,21,13,0,0,0,411,12821,12821
+Uttarakhand,Tehri Garhwal,Jakhnidhar,411,3,1,18,0,0,0,0,0,0,0,0,0,0,0,0,0,407,11954,11954
+Uttarakhand,Tehri Garhwal,Jaunpur,1219,2,1,4,0,0,0,0,1,3,1,5,42,28,6,147,130,1204,14196,14196
+Uttarakhand,Tehri Garhwal,Kirtinagar,415,3,0,0,0,0,0,0,0,0,0,1,30,22,0,0,0,411,14286,14286
+Uttarakhand,Tehri Garhwal,Narendra Nagar,580,2,1,4,0,0,0,0,1,5,2,0,0,0,8,364,338,568,14877,14877
+Uttarakhand,Tehri Garhwal,Pratapnagar,370,1,0,0,0,0,0,0,0,0,0,4,52,37,11,1083,1030,354,12788,12788
+Uttarakhand,Tehri Garhwal,Thauldhar,390,0,0,0,0,0,0,0,0,0,0,1,14,10,2,75,73,387,10251,10251
+Uttarakhand,Udam Singh Nagar,Bajpur,168,0,0,0,0,1,32,5,7,212,75,30,1609,1039,83,18194,17379,47,8244,8244
+Uttarakhand,Udam Singh Nagar,Gadarpur,185,0,0,0,0,4,206,42,10,470,188,20,1314,845,59,12636,11637,92,13430,13430
+Uttarakhand,Udam Singh Nagar,Jaspur,108,0,0,0,0,0,0,0,0,0,0,2,428,317,38,9882,9331,68,15347,15347
+Uttarakhand,Udam Singh Nagar,Kashipur,94,0,1,5,0,0,0,0,4,472,182,15,1835,1217,31,7693,7204,43,7601,7601
+Uttarakhand,Udam Singh Nagar,Khatima,114,0,0,0,0,0,0,0,0,0,0,2,270,187,45,16577,16000,67,20805,20805
+Uttarakhand,Udam Singh Nagar,Rudrapur,127,0,1,8,0,2,105,20,3,54,22,12,1442,963,30,5998,5731,79,14807,14807
+Uttarakhand,Udam Singh Nagar,Sitarganj,171,0,0,0,0,0,0,0,2,58,20,4,383,232,86,21696,20975,79,16956,16956
+Uttarakhand,Uttar Kashi,Bhatwari,237,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,237,10954,10954
+Uttarakhand,Uttar Kashi,Chinyalisaur,436,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,436,9763,9763
+Uttarakhand,Uttar Kashi,Dunda,456,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,456,13890,13890
+Uttarakhand,Uttar Kashi,Mori,483,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,483,11551,11551
+Uttarakhand,Uttar Kashi,Naugaon,406,0,3,12,0,0,0,0,0,0,0,0,0,0,1,69,55,402,13106,13106
+Uttarakhand,Uttar Kashi,Purola,178,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,178,5668,5668

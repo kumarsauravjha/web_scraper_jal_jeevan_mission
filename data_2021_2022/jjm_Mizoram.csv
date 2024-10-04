@@ -1,0 +1,30 @@
+State,District,Block Name,Total Habitations as on 01/04/2021,Non PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations
+,,Block Name,Total Habitations as on 01/04/2021,Non PWS Habitations,With FHTC Coverage = 0 %,With FHTC Coverage = 0 %,With FHTC Coverage = 0 %,With FHTC Coverage >0 and <25 %,With FHTC Coverage >0 and <25 %,With FHTC Coverage >0 and <25 %,With FHTC Coverage >=25 and <50 %,With FHTC Coverage >=25 and <50 %,With FHTC Coverage >=25 and <50 %,With FHTC Coverage >=50 and <75 %,With FHTC Coverage >=50 and <75 %,With FHTC Coverage >=50 and <75 %,With FHTC Coverage >=75 and <100 %,With FHTC Coverage >=75 and <100 %,With FHTC Coverage >=75 and <100 %,With FHTC Coverage >=100 %,With FHTC Coverage >=100 %,With FHTC Coverage >=100 %
+,,Block Name,Total Habitations as on 01/04/2021,Non PWS Habitations,Habs,House Holds,House Connectons,Habs,House Holds,House Connectons,Habs,House Holds,House Connectons,Habs,House Holds,House Connectons,Habs,House Holds,House Connectons,Habs,House Holds,House Connectons
+,,Total,63,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,63,"8,827","8,827"
+Mizoram,Aizawl,AIBAWK,22,0,0,0,0,2,334,70,2,348,143,0,0,0,0,0,0,18,4495,4495
+Mizoram,Aizawl,DARLAWN,27,1,0,0,0,2,375,56,2,732,309,9,1716,1048,5,786,664,8,1758,1758
+Mizoram,Aizawl,PHULLEN,13,1,3,483,0,2,575,23,1,414,195,0,0,0,0,0,0,6,1523,1523
+Mizoram,Aizawl,THINGSULTHLIAH,23,2,10,1905,0,1,211,21,1,836,255,2,856,474,1,600,453,6,569,569
+Mizoram,Aizawl,TLANGNUAM,10,0,2,172,0,0,0,0,0,0,0,1,1800,1001,0,0,0,7,1366,1366
+Mizoram,Champhai,CHAMPHAI,10,1,3,557,0,0,0,0,1,635,167,0,0,0,0,0,0,5,884,884
+Mizoram,Champhai,KHAWBUNG,28,0,9,1280,0,1,532,6,1,116,46,1,410,223,4,595,500,12,2395,2395
+Mizoram,Champhai,KHAWZAWL,31,0,5,616,0,0,0,0,4,1768,791,1,47,25,6,1292,1153,15,2502,2502
+Mizoram,Champhai,NGOPA,14,0,0,0,0,0,0,0,3,780,207,1,1031,530,0,0,0,10,2622,2622
+Mizoram,Kolasib,BILKHAWTHLIR,18,0,1,241,0,0,0,0,1,1120,532,0,0,0,6,1392,1310,10,2121,2121
+Mizoram,Kolasib,Thingdawl,20,1,1,25,0,1,240,53,2,450,131,1,37,26,4,1407,1226,10,2294,2294
+Mizoram,Lawngtlai,Bungtlang South,27,2,13,1316,0,2,747,46,0,0,0,0,0,0,0,0,0,10,2112,2112
+Mizoram,Lawngtlai,CHAWNGTE,86,4,43,5542,0,10,2094,183,4,1593,604,4,460,307,7,1037,872,14,2281,2281
+Mizoram,Lawngtlai,LAWNGTLAI,33,5,8,1203,0,1,280,60,1,461,175,3,480,295,5,763,663,10,1008,1008
+Mizoram,Lawngtlai,SANGAU,19,6,0,0,0,0,0,0,0,0,0,2,559,341,2,549,516,9,1973,1973
+Mizoram,Lunglei,BUNGHMUN,36,2,12,1098,0,3,519,48,0,0,0,3,111,71,7,1603,1393,9,1127,1127
+Mizoram,Lunglei,HNAHTHIAL,23,0,0,0,0,0,0,0,0,0,0,0,0,0,6,1616,1521,17,3176,3176
+Mizoram,Lunglei,LUNGLEI,40,3,18,1892,0,0,0,0,1,379,126,2,316,213,0,0,0,16,2404,2404
+Mizoram,Lunglei,LUNGSEN,65,1,16,1526,0,17,2084,219,2,345,136,1,150,100,4,1251,1062,24,3772,3772
+Mizoram,Mamit,REIEK,22,1,6,822,0,3,599,40,8,1746,712,1,103,67,0,0,0,3,365,365
+Mizoram,Mamit,WEST PHAILENG,21,0,5,1126,0,1,545,35,1,993,297,0,0,0,2,719,581,12,2211,2211
+Mizoram,Mamit,ZAWLNUAM,45,0,5,1283,0,3,1303,168,1,737,299,4,1228,805,0,0,0,32,4536,4536
+Mizoram,Serchhip,EAST LUNGDAR,11,0,1,317,0,0,0,0,1,750,301,3,558,320,2,156,135,4,865,865
+Mizoram,Serchhip,SERCHHIP,25,0,0,0,0,0,0,0,2,560,246,1,179,120,2,435,372,20,3454,3454
+Mizoram,Siaha,SAIHA,20,2,10,1290,0,0,0,0,0,0,0,1,246,147,3,560,528,4,381,381
+Mizoram,Siaha,TUIPANG,33,0,17,2393,0,1,27,2,1,238,108,1,90,63,5,1151,926,8,1330,1330

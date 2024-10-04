@@ -1,0 +1,155 @@
+State,District,Block Name,Total Habitations as on 01/04/2021,Non PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations
+,,Block Name,Total Habitations as on 01/04/2021,Non PWS Habitations,With FHTC Coverage = 0 %,With FHTC Coverage = 0 %,With FHTC Coverage = 0 %,With FHTC Coverage >0 and <25 %,With FHTC Coverage >0 and <25 %,With FHTC Coverage >0 and <25 %,With FHTC Coverage >=25 and <50 %,With FHTC Coverage >=25 and <50 %,With FHTC Coverage >=25 and <50 %,With FHTC Coverage >=50 and <75 %,With FHTC Coverage >=50 and <75 %,With FHTC Coverage >=50 and <75 %,With FHTC Coverage >=75 and <100 %,With FHTC Coverage >=75 and <100 %,With FHTC Coverage >=75 and <100 %,With FHTC Coverage >=100 %,With FHTC Coverage >=100 %,With FHTC Coverage >=100 %
+,,Block Name,Total Habitations as on 01/04/2021,Non PWS Habitations,Habs,House Holds,House Connectons,Habs,House Holds,House Connectons,Habs,House Holds,House Connectons,Habs,House Holds,House Connectons,Habs,House Holds,House Connectons,Habs,House Holds,House Connectons
+,,Total,63,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,63,"8,827","8,827"
+Punjab,Amritsar,AJNALA,172,0,0,0,0,0,0,0,0,0,0,0,0,0,34,5168,4551,138,21734,21734
+Punjab,Amritsar,Attari,70,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,70,23262,23262
+Punjab,Amritsar,Chogawan,120,0,0,0,0,0,0,0,0,0,0,5,770,485,16,3344,3029,99,19683,19683
+Punjab,Amritsar,Harshe Chhina,83,0,0,0,0,0,0,0,0,0,0,1,106,76,13,4057,3471,69,15099,15099
+Punjab,Amritsar,Jandiala Guru,64,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,64,18098,18098
+Punjab,Amritsar,MAJITHA,114,0,0,0,0,0,0,0,0,0,0,0,0,0,9,2372,2253,105,23226,23226
+Punjab,Amritsar,Rayya,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100,30664,30664
+Punjab,Amritsar,Tarsikka,94,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,94,22605,22605
+Punjab,Amritsar,Verka,74,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,74,24524,24524
+Punjab,Barnala,Barnala,55,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,55,32710,32710
+Punjab,Barnala,Mehal Kalan,46,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,46,18600,18600
+Punjab,Barnala,Sehna,52,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,52,22086,22086
+Punjab,Bathinda,Bathinda,55,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,55,18536,18536
+Punjab,Bathinda,Bhagta Bhaika,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,32,12039,12039
+Punjab,Bathinda,GONIANA,58,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,58,17635,17635
+Punjab,Bathinda,Maur,51,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51,15205,15205
+Punjab,Bathinda,Nathana,62,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,62,21891,21891
+Punjab,Bathinda,Phul,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,7485,7485
+Punjab,Bathinda,RAMPURA,42,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,42,21181,21181
+Punjab,Bathinda,Sangat,111,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,111,23230,23230
+Punjab,Bathinda,Talwandi Sabo,69,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,69,24601,24601
+Punjab,Faridkot,Faridkot,177,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,177,35339,35339
+Punjab,Faridkot,Jaitu,108,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,108,23848,23848
+Punjab,Faridkot,Kot Kapura,94,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,94,19221,19221
+Punjab,Fatehgarh Sahib,Amloh,104,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,104,20029,20029
+Punjab,Fatehgarh Sahib,Bassi Pathana,82,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,82,11934,11934
+Punjab,Fatehgarh Sahib,Khamano,72,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,72,15090,15090
+Punjab,Fatehgarh Sahib,Khera,87,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,87,14308,14308
+Punjab,Fatehgarh Sahib,Sirhind,110,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,110,17114,17114
+Punjab,Fazilka,Abohar,106,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,106,37316,37316
+Punjab,Fazilka,Arniwala Shiekh Subhan,46,0,0,0,0,1,65,10,1,120,46,4,1172,791,0,0,0,40,15091,15091
+Punjab,Fazilka,Fazilka,100,0,0,0,0,1,110,4,5,890,329,9,1635,1098,14,3593,3223,71,16359,16359
+Punjab,Fazilka,Jalalabad,155,0,1,65,0,0,0,0,1,97,33,1,220,113,1,545,452,151,31479,31479
+Punjab,Fazilka,Khuian Sarwar,70,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,70,32397,32397
+Punjab,Ferozepur,Firozpur,190,17,9,479,0,17,1925,225,11,1360,509,19,2687,1685,34,5365,4698,83,8948,8948
+Punjab,Ferozepur,Ghall Khurd,178,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,178,26936,26936
+Punjab,Ferozepur,Guru Har Sahai,181,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,181,25764,25764
+Punjab,Ferozepur,Makhu,151,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,151,14407,14407
+Punjab,Ferozepur,MAMDOT,162,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,162,17014,17014
+Punjab,Ferozepur,Zira,128,0,1,42,0,1,53,5,0,0,0,2,740,484,0,0,0,124,20778,20778
+Punjab,Gurdaspur,Batala,140,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,140,26530,26530
+Punjab,Gurdaspur,Dera Baba Nanak,147,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,147,22221,22221
+Punjab,Gurdaspur,Dhariwal,103,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,103,25124,25124
+Punjab,Gurdaspur,Dinanagar,129,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,129,21842,21842
+Punjab,Gurdaspur,Dorangla,74,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,74,8958,8958
+Punjab,Gurdaspur,Fatehgarh Churian,112,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,112,22297,22297
+Punjab,Gurdaspur,Gurdaspur,181,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,181,37952,37952
+Punjab,Gurdaspur,Kahnuwan,153,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,153,24767,24767
+Punjab,Gurdaspur,Kalanaur,92,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,92,18705,18705
+Punjab,Gurdaspur,Qadian,77,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,77,18359,18359
+Punjab,Gurdaspur,Sri Hargobindpur,113,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,113,21519,21519
+Punjab,Hoshiarpur,Bhunga,206,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,206,29902,29902
+Punjab,Hoshiarpur,Dasuya,178,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,178,24914,24914
+Punjab,Hoshiarpur,Garhshankar,176,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,176,36095,36095
+Punjab,Hoshiarpur,Hajipur,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100,18834,18834
+Punjab,Hoshiarpur,Hoshiarpur-I,191,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,191,32350,32350
+Punjab,Hoshiarpur,Hoshiarpur-Ii,134,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,134,32028,32028
+Punjab,Hoshiarpur,Mahilpur,170,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,170,28986,28986
+Punjab,Hoshiarpur,Mukerian,152,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,152,26287,26287
+Punjab,Hoshiarpur,Talwara,112,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,112,20103,20103
+Punjab,Hoshiarpur,Tanda,125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,125,24940,24940
+Punjab,Jalandhar,Adampur,74,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,74,22097,22097
+Punjab,Jalandhar,Bhogpur,84,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,84,15912,15912
+Punjab,Jalandhar,Jalandhar - West,125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,125,29103,29103
+Punjab,Jalandhar,Jalandhar-East,84,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,84,24803,24803
+Punjab,Jalandhar,Lohian,96,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,96,12082,12082
+Punjab,Jalandhar,Mehatpur,61,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61,9721,9721
+Punjab,Jalandhar,NAKODAR,102,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,102,23377,23377
+Punjab,Jalandhar,Nurmahal,83,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,83,16944,16944
+Punjab,Jalandhar,Phillaur,101,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,101,31577,31577
+Punjab,Jalandhar,Rurka Kalan,57,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,57,20169,20169
+Punjab,Jalandhar,Shahkot,93,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,93,17615,17615
+Punjab,Kapurthala,Dhilwan,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,90,18703,18703
+Punjab,Kapurthala,Kapurthala,156,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,156,26306,26306
+Punjab,Kapurthala,Nadala,111,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,111,18614,18614
+Punjab,Kapurthala,Phagwara,123,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,123,26476,26476
+Punjab,Kapurthala,Sultanpur Lodhi,199,0,0,0,0,0,0,0,0,0,0,0,0,0,1,84,82,198,21265,21265
+Punjab,Ludhiana,Dehlon,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45,15260,15260
+Punjab,Ludhiana,Doraha,49,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,49,16440,16440
+Punjab,Ludhiana,Jagraon,68,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,68,31231,31231
+Punjab,Ludhiana,Khanna,86,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,86,23004,23004
+Punjab,Ludhiana,Ludhiana-1,91,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91,39936,39936
+Punjab,Ludhiana,Ludhiana-2,224,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,224,61955,61955
+Punjab,Ludhiana,Machhiwara,132,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,132,18681,18681
+Punjab,Ludhiana,MALOUD,54,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,54,14309,14309
+Punjab,Ludhiana,Pakhowal,64,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,64,22697,22697
+Punjab,Ludhiana,Raikot,49,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,49,18936,18936
+Punjab,Ludhiana,Samrala,67,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,67,16406,16406
+Punjab,Ludhiana,Sidhwan Bet,130,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,130,25354,25354
+Punjab,Ludhiana,Sudhar,43,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,43,21250,21250
+Punjab,Malerkotla,Ahmedgarh,61,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61,14722,14722
+Punjab,Malerkotla,Amargarh,80,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,80,20220,20220
+Punjab,Malerkotla,Malerkotla H,50,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,14939,14939
+Punjab,Mansa,Bhikhi,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,35,16848,16848
+Punjab,Mansa,Budhlada,95,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,95,34840,34840
+Punjab,Mansa,Jhunir,50,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,18259,18259
+Punjab,Mansa,MANSA,56,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,56,21749,21749
+Punjab,Mansa,Sardulgarh,62,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,62,16898,16898
+Punjab,Moga,Baghapurana,67,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,67,37159,37159
+Punjab,Moga,Kot-Ise-Khan,176,4,3,69,0,6,817,6,3,1549,663,6,1378,792,4,1904,1571,150,27242,27242
+Punjab,Moga,Moga-i,62,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,62,27685,27685
+Punjab,Moga,Moga-ii,51,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51,19880,19880
+Punjab,Moga,Nihal Singh Wala,58,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,58,26213,26213
+Punjab,Pathankot,Bamial,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25,3483,3483
+Punjab,Pathankot,Dharkalan,166,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,166,14950,14950
+Punjab,Pathankot,Gharota,92,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,92,17573,17573
+Punjab,Pathankot,Narot Jaimal Singh,135,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,135,17088,17088
+Punjab,Pathankot,Pathankot,64,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,63,13217,13217
+Punjab,Pathankot,Sujanpur,84,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,84,16600,16600
+Punjab,Patiala,Bhuner Heri,219,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,219,24376,24376
+Punjab,Patiala,Ghanaur,91,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91,17939,17939
+Punjab,Patiala,Nabha,168,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,168,32599,32599
+Punjab,Patiala,Patiala,106,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,106,21655,21655
+Punjab,Patiala,Patran,134,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,134,25898,25898
+Punjab,Patiala,Rajpura,94,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,94,21039,21039
+Punjab,Patiala,Samana,112,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,112,24623,24623
+Punjab,Patiala,Sanour,167,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,167,37182,37182
+Punjab,Patiala,Shambu Kalan,88,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,88,20840,20840
+Punjab,Rupnagar,Anandpur Sahib,222,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,222,32122,32122
+Punjab,Rupnagar,Chamkaur Sahib,103,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,103,11355,11355
+Punjab,Rupnagar,Morinda,70,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,70,11655,11655
+Punjab,Rupnagar,Nurpur Bedi,162,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,162,25078,25078
+Punjab,Rupnagar,Rupnagar,239,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,239,25833,25833
+Punjab,S.A.S Nagar,Dera Bassi,103,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,103,27314,27314
+Punjab,S.A.S Nagar,Kharar,161,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,161,44307,44307
+Punjab,S.A.S Nagar,Majri,119,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,119,20169,20169
+Punjab,Sangrur,Andana,41,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41,15249,15249
+Punjab,Sangrur,Bhawani Garh,84,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,84,20293,20293
+Punjab,Sangrur,Dhuri,64,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,64,21684,21684
+Punjab,Sangrur,Dirba,43,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,43,18773,18773
+Punjab,Sangrur,Lehragaga,44,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,44,23764,23764
+Punjab,Sangrur,Sangrur,60,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,60,24796,24796
+Punjab,Sangrur,Sherpur,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40,18929,18929
+Punjab,Sangrur,Sunam,49,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,49,27217,27217
+Punjab,Shahid Bhagat Singh Nagar,Aur,82,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,82,19936,19936
+Punjab,Shahid Bhagat Singh Nagar,Balachaur,141,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,141,22759,22759
+Punjab,Shahid Bhagat Singh Nagar,Banga,98,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,98,29325,29325
+Punjab,Shahid Bhagat Singh Nagar,Nawanshahr,101,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,101,22695,22695
+Punjab,Shahid Bhagat Singh Nagar,Saroya,63,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,63,15064,15064
+Punjab,Sri Muktsar Sahib,Gidderbaha,132,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,132,32244,32244
+Punjab,Sri Muktsar Sahib,Lambi,92,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,92,30040,30040
+Punjab,Sri Muktsar Sahib,Malout,70,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,70,26428,26428
+Punjab,Sri Muktsar Sahib,Muktsar,111,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,111,36527,36527
+Punjab,Tarn Taran,Bhikhi Wind-13,82,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,82,22855,22855
+Punjab,Tarn Taran,Chohla Sahib-8,50,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,14830,14830
+Punjab,Tarn Taran,Gandiwind-9,47,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,47,11184,11184
+Punjab,Tarn Taran,Khadur-Sahib-10,99,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,99,23559,23559
+Punjab,Tarn Taran,Naushehra Pannuan-11,73,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,73,23185,23185
+Punjab,Tarn Taran,Patti-14,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,90,21289,21289
+Punjab,Tarn Taran,Tarn Taran-12,116,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,116,31640,31640
+Punjab,Tarn Taran,Valtoha-15,68,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,68,18418,18418

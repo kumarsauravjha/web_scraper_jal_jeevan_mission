@@ -1,0 +1,62 @@
+State,District,Block Name,Total Habitations as on 01/04/2024,Non PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations,PWS Habitations
+,,Block Name,Total Habitations as on 01/04/2024,Non PWS Habitations,With FHTC Coverage = 0 %,With FHTC Coverage = 0 %,With FHTC Coverage = 0 %,With FHTC Coverage >0 and <25 %,With FHTC Coverage >0 and <25 %,With FHTC Coverage >0 and <25 %,With FHTC Coverage >=25 and <50 %,With FHTC Coverage >=25 and <50 %,With FHTC Coverage >=25 and <50 %,With FHTC Coverage >=50 and <75 %,With FHTC Coverage >=50 and <75 %,With FHTC Coverage >=50 and <75 %,With FHTC Coverage >=75 and <100 %,With FHTC Coverage >=75 and <100 %,With FHTC Coverage >=75 and <100 %,With FHTC Coverage >=100 %,With FHTC Coverage >=100 %,With FHTC Coverage >=100 %
+,,Block Name,Total Habitations as on 01/04/2024,Non PWS Habitations,Habs,House Holds,House Connectons,Habs,House Holds,House Connectons,Habs,House Holds,House Connectons,Habs,House Holds,House Connectons,Habs,House Holds,House Connectons,Habs,House Holds,House Connectons
+,,Total,63,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,63,"8,827","8,827"
+Tripura,Dhalai,Ambassa,134,0,13,472,0,6,214,29,12,908,337,16,2215,1477,55,6803,6128,32,2634,2634
+Tripura,Dhalai,Chawmanu,131,0,61,1947,0,6,230,25,5,274,107,16,1346,863,37,5134,4719,6,624,624
+Tripura,Dhalai,Dumburnagar,141,0,9,440,0,6,372,28,11,860,338,22,1632,1034,39,4254,3801,54,5934,5934
+Tripura,Dhalai,Durgachowmuhani,177,0,0,0,0,9,934,148,20,2232,882,26,3732,2392,35,5245,4707,87,7558,7558
+Tripura,Dhalai,Ganganagar,64,0,1,40,0,0,0,0,6,385,148,12,648,436,14,843,736,31,1254,1254
+Tripura,Dhalai,Manu,252,0,36,1796,0,11,952,85,14,1405,478,32,2789,1871,40,4686,4191,119,13704,13704
+Tripura,Dhalai,Raishyabari,79,0,1,72,0,2,70,16,2,109,38,13,1123,711,26,1766,1564,35,2829,2829
+Tripura,Dhalai,Salema,115,0,2,48,0,0,0,0,4,579,235,19,2504,1654,45,7227,6366,45,3017,3017
+Tripura,Gomati,Amarpur,201,0,14,296,0,9,419,57,15,1040,426,46,3981,2519,64,6080,5413,53,3318,3318
+Tripura,Gomati,Kakraban,128,0,2,9,0,1,118,21,6,678,298,26,3821,2396,40,5423,4779,53,7878,7878
+Tripura,Gomati,Karbook,228,0,11,472,0,10,498,37,13,644,206,16,921,588,39,2749,2325,139,6989,6989
+Tripura,Gomati,Killa,92,0,14,640,0,4,221,14,6,622,271,16,2085,1309,36,3471,3238,16,1571,1571
+Tripura,Gomati,Matabari,184,0,4,264,0,13,1078,163,19,3374,1443,21,2716,1642,28,3763,3330,99,14328,14328
+Tripura,Gomati,Ompi,161,0,7,192,0,4,107,12,14,547,218,22,914,590,57,4050,3547,57,2790,2790
+Tripura,Gomati,Silachari,58,0,3,83,0,2,41,4,5,341,139,6,722,493,17,1430,1286,25,1642,1642
+Tripura,Gomati,Tepania,100,0,0,0,0,4,566,101,11,1519,590,14,2334,1428,15,2254,2021,56,8153,8153
+Tripura,Khowai,Kalyanpur,159,0,5,14,0,4,438,84,4,527,223,9,826,563,19,2379,2151,118,6506,6506
+Tripura,Khowai,Khowai,158,0,0,0,0,9,975,171,16,1526,628,18,2115,1347,26,2607,2310,89,8269,8269
+Tripura,Khowai,Mungiakami,191,0,20,448,0,9,279,28,9,286,98,28,1056,666,41,1899,1684,84,2570,2570
+Tripura,Khowai,Padmabil,224,0,7,61,0,1,23,5,6,162,68,12,313,191,71,3852,3505,127,4722,4722
+Tripura,Khowai,Teliamura,231,0,10,130,0,10,777,96,21,2559,983,31,3421,2100,52,6151,5463,107,6905,6905
+Tripura,Khowai,Tulashikhar,210,0,6,63,0,9,383,52,21,898,361,41,2191,1442,64,3987,3492,69,3837,3837
+Tripura,North Tripura,Damcherra,87,0,1,1,0,0,0,0,1,29,12,10,661,450,24,1415,1220,51,4414,4414
+Tripura,North Tripura,Dasda,144,0,23,1542,0,4,227,14,2,121,54,3,152,98,56,4297,3996,56,8592,8592
+Tripura,North Tripura,Jampui Hills,27,0,5,396,0,1,52,6,1,74,31,2,183,111,6,645,560,12,1411,1411
+Tripura,North Tripura,Jubarajnagar,126,0,0,0,0,3,227,14,10,830,294,11,1293,802,25,3480,3194,77,7837,7837
+Tripura,North Tripura,Kadamtala,86,0,4,530,0,9,1401,158,11,1931,769,16,3246,1902,14,2339,2081,32,4727,4727
+Tripura,North Tripura,Kalacherra,76,0,0,0,0,5,1000,119,5,1033,420,9,1166,756,18,3211,2799,39,6224,6224
+Tripura,North Tripura,Laljuri,80,0,10,514,0,6,474,47,2,244,79,2,222,138,5,803,787,55,6786,6786
+Tripura,North Tripura,Panisagar,77,0,0,0,0,3,204,19,6,257,87,3,313,188,12,1786,1621,53,6704,6704
+Tripura,Sepahijala,Bishalgarh,250,0,0,0,0,13,824,132,28,3511,1344,52,6022,3850,71,7595,6651,86,7927,7927
+Tripura,Sepahijala,Boxanagar,112,0,0,0,0,2,279,43,9,876,318,18,2294,1491,24,3031,2653,59,6805,6805
+Tripura,Sepahijala,Charilam,125,0,0,0,0,2,121,23,10,834,320,29,4071,2503,30,4775,4186,54,6483,6483
+Tripura,Sepahijala,Jampuijala,421,0,18,238,0,8,249,50,51,2362,872,83,3963,2543,133,6670,5807,128,4894,4894
+Tripura,Sepahijala,Kathalia,162,0,0,0,0,5,739,105,9,1241,459,7,810,510,23,2002,1792,118,12225,12225
+Tripura,Sepahijala,Mohanbhog,81,0,0,0,0,3,178,33,6,622,237,17,2230,1446,23,2285,1958,32,2902,2902
+Tripura,Sepahijala,Nalchar,145,0,0,0,0,6,642,122,15,1421,576,20,2455,1579,46,6121,5312,58,7474,7474
+Tripura,South Tripura,Bharat Chandra Nagar,96,0,1,17,0,3,72,13,5,485,203,17,2105,1322,43,4812,4248,27,3580,3580
+Tripura,South Tripura,Bokafa,230,0,12,447,0,9,370,55,15,1026,399,41,2421,1511,60,4133,3604,93,6059,6059
+Tripura,South Tripura,Hrishyamukh,154,0,2,40,0,5,389,51,18,1360,511,19,1689,1063,42,4326,3912,68,6386,6386
+Tripura,South Tripura,Jolaibari,223,0,22,637,0,17,1051,136,28,2489,961,41,3925,2467,45,5188,4508,70,4968,4968
+Tripura,South Tripura,Poangbari,53,0,7,286,0,4,379,32,3,229,88,4,187,116,22,2685,2338,13,1078,1078
+Tripura,South Tripura,Rajnagar,150,0,0,0,0,2,32,5,7,298,108,15,1480,967,59,6486,5942,67,7002,7002
+Tripura,South Tripura,Rupaichari,159,0,4,107,0,3,99,18,10,572,209,27,1428,930,38,2280,2032,77,3795,3795
+Tripura,South Tripura,Satchand,265,0,15,382,0,13,635,76,17,977,309,42,3569,2170,76,7788,6955,102,8171,8171
+Tripura,Unakoti,Chandipur,92,0,0,0,0,0,0,0,1,19,6,3,282,195,11,1040,930,77,8078,8078
+Tripura,Unakoti,Gournagar,120,0,6,400,0,7,632,43,15,1458,549,17,2201,1469,21,2499,2172,54,6386,6386
+Tripura,Unakoti,Kumarghat,177,0,0,0,0,1,30,1,7,673,245,10,1166,710,19,2678,2442,140,15971,15971
+Tripura,Unakoti,Pecharthal,82,0,8,345,0,6,240,44,8,664,255,16,1604,958,21,3708,3080,23,3493,3493
+Tripura,West Tripura,Bamutia,109,0,0,0,0,0,0,0,3,333,137,7,700,492,28,3523,3250,71,8635,8635
+Tripura,West Tripura,Belbari,199,0,3,61,0,2,40,9,3,75,30,13,621,388,14,811,694,164,6234,6234
+Tripura,West Tripura,Dukli,182,0,0,0,0,1,238,59,6,793,349,9,1548,1034,17,3623,3211,149,19742,19742
+Tripura,West Tripura,Hezamara,306,0,12,134,0,10,146,26,19,347,138,32,865,557,51,2275,2038,182,6485,6485
+Tripura,West Tripura,Jirania,131,0,0,0,0,2,119,23,3,148,57,8,291,190,3,731,573,115,8422,8422
+Tripura,West Tripura,Lefunga,84,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,84,3367,3367
+Tripura,West Tripura,Mandwai,261,0,24,511,0,25,867,107,38,1604,647,41,1645,1002,48,3572,3045,85,4421,4421
+Tripura,West Tripura,Mohanpur,128,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,128,10986,10986
+Tripura,West Tripura,Old Agartala,90,0,1,36,0,3,231,24,6,366,145,8,556,368,8,1181,1010,64,8541,8541
